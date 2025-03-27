@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Instrument';
+  src: url('/fonts/Instrument/InstrumentSerif-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Instrument Italic';
+  src: url('../../public/fonts/Instrument/InstrumentSerif-Italic.ttf') format('ttf');
+  font-weight: normal;
+  font-style:italic;
+}
+
+
+@font-face {
+  font-family: 'Helius';
+  src: url('../../public/fonts/Helius/Helius-Regular\ 2.otf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helius Medium';
+  src: url('../../public/fonts/Helius/Helius-Medium\ 2.otf') format('ttf');
+  font-weight:600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helius SemiBold';
+  src: url('../../public/fonts/Helius/Helius-SemiBold\ 2.otf') format('ttf');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helius Bold';
+  src: url('../../public/fonts/Helius/Helius-Bold\ 2.otf') format('ttf');
+  font-weight: 800;
+  font-style: normal;
+}
