@@ -14,7 +14,7 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                 }
                 `}
             </style>
-            <div className="mb-4">
+            <div className="mb-3">
                 <input
                     type="text"
                     name="name"
@@ -46,7 +46,7 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                 isSubmitting ? (
                     <button
                         type="submit"
-                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-70 transition-colors"
+                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-50 transition-colors"
                         style={{ fontFamily: 'Inter' }}
                         disabled={isSubmitting}
                     >
@@ -55,11 +55,11 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                 ) : (
                     <button
                         type="submit"
-                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-70 transition-colors"
+                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-semibold hover:bg-opacity-50 transition-colors"
                         style={{ fontFamily: 'Inter' }}
                         disabled={isSubmitting}
                     >
-                        Submit Email
+                        Save
                     </button>
                 )
             }

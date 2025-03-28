@@ -68,7 +68,7 @@ const ComingSoonPage = () => {
 
       {/* Content overlay */}
       <div
-        className="absolute z-10 flex w-full max-w-xs flex-col items-center justify-center rounded-2xl 
+        className="absolute z-10 flex w-full max-w-xs flex-col items-center justify-center rounded-3xl 
             border-[2px] border-[#272727] bg-[#131214]/70 p-8 px-8 shadow-[0_8px_16px_rgba(255,255,255,0.03)] 
             backdrop-blur-md"
       >
@@ -85,7 +85,7 @@ const ComingSoonPage = () => {
               className="labeltop mb-5  flex justify-center gap-3 text-center font-serif text-xl font-medium"
             // style={{ fontFamily: "Helius" }}
             >
-              Sign up for Internal Beta
+              Join Internal Beta Programme
             </div>
           )}
         </div>
