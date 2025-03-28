@@ -19,28 +19,28 @@
 
 @font-face {
   font-family: 'Helius';
-  src: url('/fonts/Helius/Helius-Regular\ 2.otf') format('ttf');
+  src: url('/fonts/Helius/woff/Helius-Regular.woff') format('woff');
   /* font-weight: normal;
   font-style: normal; */
 }
 
 @font-face {
   font-family: 'Helius Medium';
-  src: url('/fonts/Helius/Helius-Medium\ 2.otf') format('ttf');
+  src: url('/fonts/Helius/woff/Helius-Regular.woff') format('woff');
   /* font-weight:600;
   font-style: normal; */
 }
 
 @font-face {
   font-family: 'Helius SemiBold';
-  src: url('/public/fonts/Helius/Helius-SemiBold\ 2.otf') format('ttf');
+  src: url('/fonts/Helius/woff/Helius-Regular.woff') format('woff');
   /* font-weight: 700;
   font-style: normal; */
 }
 
 @font-face {
   font-family: 'Helius Bold';
-  src: url('/public/fonts/Helius/Helius-Bold\ 2.otf') format('ttf');
+  src: url('/fonts/Helius/woff/Helius-Regular.woff') format('woff');
   /* font-weight: 800;
   font-style: normal; */
 }
