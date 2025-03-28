@@ -1,5 +1,3 @@
-// import { Bounce, JackInTheBox, Slide } from "react-awesome-reveal";
-
 import React, { useState } from "react";
 
 import CountdownTimer from "@/components/countdown";
@@ -27,18 +25,9 @@ const ComingSoonPage = () => {
   };
 
   const handleSubmit = (e) => {
-    e.preventDefault();
-    // console.log('Submitted:', formData);
-    // Here you would typically send this data to your backend
-    // alert('Thank you for your interest! We will notify you when we launch.');
+    e.preventDefault(); ''
 
-    // setIsSubmitting(true);
-
-    // messageApi.open({
-    //     key,
-    //     type: 'loading',
-    //     content: 'Submitting',
-    // });
+    setIsSubmitting(true);
 
     // Make API request with axios
     const headers = {
@@ -80,7 +69,7 @@ const ComingSoonPage = () => {
       {/* Content overlay */}
       <div
         className="absolute z-10 flex w-full max-w-xs flex-col items-center justify-center rounded-2xl 
-            border-[2px] border-[#212121] bg-[#131214]/70 p-8 px-8 shadow-[0_8px_16px_rgba(255,255,255,0.03)] 
+            border-[2px] border-[#272727] bg-[#131214]/70 p-8 px-8 shadow-[0_8px_16px_rgba(255,255,255,0.03)] 
             backdrop-blur-md"
       >
         <div className=" flex w-full flex-col items-center justify-center gap-8">
