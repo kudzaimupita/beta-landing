@@ -73,14 +73,14 @@ const ComingSoonPage = () => {
   return (
     <div
       className="flex h-screen flex-row items-center justify-center overflow-hidden 
-        bg-[#09090B] text-white "
+        bg-[#09090B] text-white"
     >
       {contextHolder}
 
       {/* Content overlay */}
       <div
         className="absolute z-10 flex w-full max-w-xs flex-col items-center justify-center rounded-2xl 
-            border-[2px] border-[#212121] bg-[#131214]/70 p-6 px-8 shadow-[0_8px_16px_rgba(255,255,255,0.03)] 
+            border-[2px] border-[#212121] bg-[#131214]/70 p-8 px-8 shadow-[0_8px_16px_rgba(255,255,255,0.03)] 
             backdrop-blur-md"
       >
         <div className=" flex w-full flex-col items-center justify-center gap-8">
@@ -93,8 +93,8 @@ const ComingSoonPage = () => {
           {/* Heading */}
           {!isSubmitted && (
             <div
-              className="mb-5 mt-5 flex justify-center gap-3 text-center font-serif text-xl font-medium"
-              style={{ fontFamily: "Helius" }}
+              className="labeltop mb-5  flex justify-center gap-3 text-center font-serif text-xl font-medium"
+            // style={{ fontFamily: "Helius" }}
             >
               Sign up for Internal Beta
             </div>
@@ -124,6 +124,16 @@ const ComingSoonPage = () => {
       <div className="h-[100vh] w-[100vw]">
         <ParticleAttractorSystem />
       </div>
+
+      {/* Custom style */}
+      <style>
+        {`
+                .labeltop {
+                font-family: "Instrument Serif", serif;
+                }
+                `}
+      </style>
+
     </div>
   );
 };
