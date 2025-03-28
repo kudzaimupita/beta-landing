@@ -69,7 +69,7 @@ const ComingSoonPage = () => {
       {/* Content overlay */}
       <div
         className="absolute z-10 flex w-full max-w-xs flex-col items-center justify-center rounded-3xl 
-            border-[2px] border-[#272727] bg-[#131214]/70 p-8 px-8 shadow-[0_8px_16px_rgba(255,255,255,0.03)] 
+            border-[2px] border-[#272727] bg-[#131214]/60 p-8 px-8 shadow-[0_8px_16px_rgba(255,255,255,0.03)] 
             backdrop-blur-md"
       >
         <div className=" flex w-full flex-col items-center justify-center gap-8">
