@@ -4,14 +4,14 @@
 
 @font-face {
   font-family: 'Instrument Serif';
-  src: url('/fonts/Instrument/InstrumentSerif-Regular.ttf') format('ttf');
+  src: url('/fonts/Helius/woff/InstrumentSerif-Regular.woff') format('woff');
   /* font-weight: normal;
   font-style: normal; */
 }
 
 @font-face {
   font-family: 'Instrument Italic';
-  src: url('/fonts/Instrument/InstrumentSerif-Italic.ttf') format('ttf');
+  src: url('/fonts/Helius/woff/InstrumentSerif-Italic.woff') format('woff');
   /* font-weight: normal;
   font-style:italic; */
 }
@@ -26,21 +26,21 @@
 
 @font-face {
   font-family: 'Helius Medium';
-  src: url('/fonts/Helius/woff/Helius-Regular.woff') format('woff');
+  src: url('/fonts/Helius/woff/Helius-Medium.woff') format('woff');
   /* font-weight:600;
   font-style: normal; */
 }
 
 @font-face {
   font-family: 'Helius SemiBold';
-  src: url('/fonts/Helius/woff/Helius-Regular.woff') format('woff');
+  src: url('/fonts/Helius/woff/Helius-SemiBold.woff') format('woff');
   /* font-weight: 700;
   font-style: normal; */
 }
 
 @font-face {
   font-family: 'Helius Bold';
-  src: url('/fonts/Helius/woff/Helius-Regular.woff') format('woff');
+  src: url('/fonts/Helius/woff/Helius-Bold.woff') format('woff');
   /* font-weight: 800;
   font-style: normal; */
 }

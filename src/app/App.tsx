@@ -8,7 +8,7 @@ import Texture from '../assets/img/Texture.png';
 const App: FC = () => {
   return (
     <>
-      <img className="absolute opacity-[0.6] z-[9999] h-[100vh] w-[100vw] mix-blend-multiply pointer-events-none"
+      <img className="absolute opacity-[0.5] z-[9999] h-[100vh] w-[100vw] mix-blend-multiply pointer-events-none"
         src={Texture} alt="Texture" />
       <Routes>
         {/* <Route path="/" element={<Layout />}> */}

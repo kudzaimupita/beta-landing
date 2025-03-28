@@ -5,8 +5,12 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
         <form onSubmit={onSubmit} className="w-full">
             <style>
                 {`
-                .name-input, .emailinput, .submitbtn {
-                font-family: 'Helius', serif !important;
+                .name-input, .emailinput {
+                font-family: 'Inter', serif !important;
+                }
+
+                .submitbtn {
+                font-family: 'Inter', serif !important;
                 }
                 `}
             </style>
@@ -42,8 +46,8 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                 isSubmitting ? (
                     <button
                         type="submit"
-                        className="submitbtn w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-70 transition-colors"
-                        style={{ fontFamily: 'Helius Medium' }}
+                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-70 transition-colors"
+                        style={{ fontFamily: 'Inter' }}
                         disabled={isSubmitting}
                     >
                         ...
@@ -51,8 +55,8 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                 ) : (
                     <button
                         type="submit"
-                        className="submitbtn w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-70 transition-colors"
-                        style={{ fontFamily: 'Helius Medium' }}
+                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-70 transition-colors"
+                        style={{ fontFamily: 'Inter' }}
                         disabled={isSubmitting}
                     >
                         Submit Email
