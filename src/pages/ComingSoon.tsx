@@ -38,15 +38,12 @@ const ComingSoonPage = () => {
     axios
       .post(emailUrl, formData, { headers, withCredentials: false })
       .then(() => {
-        // console.log('Success:', response.data);
-        // alert('Thank you for your interest! We will notify you when we launch.');
-        // Reset form after successful submission
 
-        // setIsSubmitted(true);
+        setIsSubmitted(true);
         setFormData({ name: "", email: "" });
       })
       .catch((error) => {
-        // console.error('Error submitting form:', error);
+        setIsSubmitting(false);
         messageApi.open({
           key,
           type: "error",
