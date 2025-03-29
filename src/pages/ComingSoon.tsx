@@ -42,7 +42,7 @@ const ComingSoonPage = () => {
         // alert('Thank you for your interest! We will notify you when we launch.');
         // Reset form after successful submission
 
-        setIsSubmitted(true);
+        // setIsSubmitted(true);
         setFormData({ name: "", email: "" });
       })
       .catch((error) => {
@@ -111,7 +111,7 @@ const ComingSoonPage = () => {
 
       {/* 3D model container */}
       <div className="h-[100vh] w-[100vw]">
-        <ParticleAttractorSystem />
+        <ParticleAttractorSystem isSubmitting={isSubmitting} />
       </div>
 
       {/* Custom style */}

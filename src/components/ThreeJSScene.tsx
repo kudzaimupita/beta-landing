@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
-const ParticleAttractorSystem = () => {
+const ParticleAttractorSystem = ({ isSubmitting }) => {
     const mountRef = useRef(null);
     const sceneRef = useRef(null);
     const cameraRef = useRef(null);
@@ -304,7 +304,7 @@ const ParticleAttractorSystem = () => {
         };
 
         // Start animation
-        animate();
+        !isSubmitting && animate();
 
         // Handle window resize
         const handleResize = () => {
@@ -341,7 +341,7 @@ const ParticleAttractorSystem = () => {
                 material.dispose();
             }
         };
-    }, []);
+    }, [isSubmitting]);
 
     return (
         <div

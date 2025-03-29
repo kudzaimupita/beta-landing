@@ -1,4 +1,5 @@
 import React from 'react';
+import { PropagateLoader } from 'react-spinners'
 
 const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
     return (
@@ -25,6 +26,7 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                     onChange={onChange}
                     required
                     style={{ fontFamily: 'Helius Medium' }}
+                    disabled={isSubmitting}
                 />
             </div>
 
@@ -39,6 +41,7 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                     onChange={onChange}
                     required
                     style={{ fontFamily: 'Helius Medium' }}
+                    disabled={isSubmitting}
                 />
             </div>
 
@@ -46,16 +49,17 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                 isSubmitting ? (
                     <button
                         type="submit"
-                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-medium hover:bg-opacity-50 transition-colors"
+                        className="w-full p-2 text-neutral-900 rounded-lg font-medium hover:bg-opacity-80 
+                        transition-colors flex justify-center items-center"
                         style={{ fontFamily: 'Inter' }}
                         disabled={isSubmitting}
                     >
-                        ...
+                        <PropagateLoader color='#D6CBFF' size={12} />
                     </button>
                 ) : (
                     <button
                         type="submit"
-                        className="w-full p-3 bg-white text-neutral-900 rounded-lg font-semibold hover:bg-opacity-50 transition-colors"
+                        className="w-full p-2 bg-white text-neutral-900 rounded-lg font-semibold hover:bg-opacity-50 transition-colors"
                         style={{ fontFamily: 'Inter' }}
                         disabled={isSubmitting}
                     >

@@ -1,0 +1,56 @@
+{
+  "name": "Servly App | Advanced Web Builder for Data-Driven Experiences",
+  "short_name": "Servly",
+  "description": "Transform complex data into beautiful, interactive web experiences with Servly's no-code platform. Advanced data manipulation, custom dashboards, and intuitive UI builder for professionals.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#28203C",
+  "theme_color": "#28203C",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/servly_logo_black-bg.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "development", "business"],
+  "lang": "en-US",
+  "orientation": "any",
+  "screenshots": [
+    {
+      "src": "/screenshots/dashboard-builder.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
