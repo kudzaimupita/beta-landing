@@ -41,6 +41,14 @@ const ComingSoonPage = () => {
 
         setIsSubmitted(true);
         setFormData({ name: "", email: "" });
+
+        messageApi.open({
+          key,
+          type: "success",
+          content: "Saved. Thank you!",
+          duration: 3,
+        });
+
       })
       .catch((error) => {
         setIsSubmitting(false);
