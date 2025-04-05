@@ -18,7 +18,7 @@ export const LegalLayout: FC<LegalLayoutProps> = ({ children, title }) => {
 
                 {/* Main content area */}
                 <main className="md:w-3/4 bg-white p-6 rounded-lg shadow-sm border">
-                    <h1 className="text-2xl font-bold mb-6" style={{ fontFamily: 'Helius Medium', color: '#66676a' }}>{title}</h1>
+                    <h1 className="text-2xl font-bold mb-2" style={{ fontFamily: 'Helius Medium', color: '#010101' }}>{title}</h1>
                     <div className="legal-document prose max-w-none" style={{ fontFamily: 'Helius Medium', color: '#19181B' }}>
                         {children}
                     </div>

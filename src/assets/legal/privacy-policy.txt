@@ -1,4 +1,6 @@
-**Last Updated: April 3, 2025**
+<div class="text-sm">Last Updated: April 6, 2025</div>
+
+<hr />
 
 ## 1. INTRODUCTION
 
@@ -13,10 +15,10 @@ We collect several types of information from and about users of our Service:
 ### 2.1 Personal Information
 Personal information is information that identifies you as an individual or relates to an identifiable individual. We may collect the following personal information:
 
-- **Account Information**: When you register for an account, we collect your name, email address, phone number, and password.
-- **Billing Information**: If you purchase a subscription, we collect payment information, billing address, and transaction history.
-- **Profile Information**: Information you provide in your user profile, such as your profile picture, job title, company name, and professional background.
-- **User Content**: Information you provide when using the Service, including websites you create, designs you develop, and communications with our support team.
+ **Account Information:** When you register for an account, we collect your name, email address, phone number, and password.
+ **Billing Information:** If you purchase a subscription, we collect payment information, billing address, and transaction history.
+ **Profile Information:** Information you provide in your user profile, such as your profile picture, job title, company name, and professional background.
+ **User Content:** Information you provide when using the Service, including websites you create, designs you develop, and communications with our support team.
 
 ### 2.2 Technical Information
 We automatically collect certain technical information when you visit our Service:
@@ -167,13 +169,10 @@ Email: info@servly.app
 ### 14.1 South Africa
 If you are a resident of South Africa, the following additional information applies to you:
 
-#### Information Officer
-We have appointed an Information Officer responsible for ensuring our compliance with POPIA. You can contact our Information Officer at [information officer email].
-
 #### Information Regulator
 You have the right to submit a complaint to the Information Regulator if you believe that we have violated your privacy rights. The Information Regulator's contact details are:
 
-Information Regulator (South Africa)
+#### Information Regulator (South Africa)
 🖂 JD House, 27 Stiemens Street, Braamfontein, Johannesburg
 🗺 P.O Box 31533, Braamfontein, Johannesburg, 2017
 enquiries@inforegulator.org.za

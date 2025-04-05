@@ -1,4 +1,6 @@
-**Last Updated: April 3, 2025**
+<div class="text-sm">Last Updated: April 6, 2025</div>
+
+<hr />
 
 ## 1. INTRODUCTION
 
@@ -87,7 +89,7 @@ All fees are exclusive of taxes, which we will charge as applicable. You are res
 ## 10. TERMINATION
 
 ### 10.1 Termination by You
-You may terminate your account at any time by following the instructions on the Service or by contacting us at [support email address].
+You may terminate your account at any time by following the instructions on the Service or by contacting us at info@servly.app
 
 ### 10.2 Termination by Servly
 We may terminate or suspend your account and access to the Service at any time, with or without cause, and with or without notice. Causes for termination may include, but are not limited to:

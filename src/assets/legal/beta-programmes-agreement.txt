@@ -1,0 +1,204 @@
+<div class="text-sm">Last Updated: April 6, 2025</div>
+
+<hr />
+
+## 1. INTRODUCTION
+
+This Beta Program Agreement ("Agreement") governs your participation in Servly's Beta Program for pre-release software, services, features, and products ("Beta Products"). This Agreement is between you (either an individual or the entity you represent) and Servly (Pty) Ltd ("Servly," "we," "us," or "our"), a company registered in the Republic of South Africa.
+
+By participating in our Beta Program, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you do not agree to these terms, you may not participate in the Beta Program.
+
+## 2. BETA PROGRAM DESCRIPTION
+
+### 2.1 Purpose
+The Servly Beta Program allows participants to access, test, and provide feedback on Beta Products before they are officially released to the general public. These Beta Products may include new tools, components, templates, features, or services related to our web building platform that combines React development techniques with a Figma-like design approach.
+
+### 2.2 Eligibility
+To participate in the Beta Program, you must:
+• Be at least 18 years of age
+• Complete the Beta Program registration process
+• Accept the terms of this Agreement
+• Accept the terms of the Non-Disclosure Agreement
+• Comply with all applicable laws and regulations
+
+### 2.3 Beta Categories
+The Beta Program may include various categories of pre-release products:
+• **Alpha**: Early-stage, internal testing with minimal external participants
+• **Closed Beta**: Limited testing with selected participants
+• **Open Beta**: Broader testing with a larger group of participants
+• **Technical Preview**: Demonstration of experimental technologies
+• **Feature Preview**: Early access to specific features within existing products
+
+## 3. LICENSE GRANT AND RESTRICTIONS
+
+### 3.1 License Grant
+Subject to your compliance with this Agreement, Servly grants you a limited, non-exclusive, non-transferable, revocable license to access and use the Beta Products solely for evaluation and testing purposes during the Beta Period.
+
+### 3.2 Restrictions
+You agree that you will not:
+• Use the Beta Products for production or commercial purposes
+• Use the Beta Products for any illegal or unauthorized purpose
+• Share, distribute, sublicense, sell, rent, lease, or transfer the Beta Products to any third party
+• Decompile, disassemble, reverse engineer, or attempt to derive the source code of the Beta Products
+• Remove, alter, or obscure any proprietary notices or labels on the Beta Products
+• Create derivative works based on the Beta Products
+• Disclose any information about the Beta Products except as permitted under this Agreement
+• Benchmark or performance test the Beta Products for publication without Servly's prior written consent
+• Use the Beta Products in a manner that exceeds reasonable testing use
+
+## 4. BETA PERIOD AND TERMINATION
+
+### 4.1 Beta Period
+The Beta Period begins when you first access the Beta Products and continues until the earlier of:
+• The commercial release of the Beta Products
+• The termination of the Beta Program for the relevant Beta Products by Servly
+• The termination of your participation in the Beta Program
+
+### 4.2 Termination
+Either party may terminate your participation in the Beta Program at any time, with or without cause, upon notice to the other party. Additionally, Servly may terminate your participation if you breach any terms of this Agreement.
+
+### 4.3 Effect of Termination
+Upon termination of this Agreement or the conclusion of the Beta Period:
+• Your license to use the Beta Products will immediately terminate
+• You must immediately cease using the Beta Products
+• You must delete all copies of the Beta Products in your possession
+• You must return or destroy any confidential information provided by Servly
+• Any unpaid fees (if applicable) will become immediately due and payable
+• Sections 5 (Confidentiality), 6 (Feedback), 7 (Intellectual Property), 9 (Disclaimer of Warranties), 10 (Limitation of Liability), and 12 (General Provisions) will survive termination
+
+## 5. CONFIDENTIALITY
+
+### 5.1 Confidential Information
+"Confidential Information" includes:
+• The Beta Products themselves and all related documentation
+• The existence, nature, and features of the Beta Products
+• Information regarding performance, security, or functionality of the Beta Products
+• Feedback provided by you or other participants
+• Discussions, communications, roadmaps, and plans related to the Beta Products
+• Any other information designated as confidential by Servly
+
+### 5.2 Confidentiality Obligations
+You agree to:
+• Maintain the confidentiality of all Confidential Information
+• Use Confidential Information solely for the purpose of evaluating and testing the Beta Products
+• Not disclose Confidential Information to any third party without Servly's prior written consent
+• Take reasonable precautions to prevent unauthorized disclosure or use of Confidential Information
+• Promptly notify Servly of any unauthorized disclosure or use of Confidential Information
+
+### 5.3 Exclusions
+The confidentiality obligations do not apply to information that:
+• Is or becomes publicly available through no fault of yours
+• Was rightfully known to you prior to receipt from Servly
+• Is rightfully received from a third party without restriction on use or disclosure
+• Is independently developed by you without use of Confidential Information
+• Is required to be disclosed by law or court order, provided you give Servly advance notice
+
+## 6. FEEDBACK
+
+### 6.1 Feedback Provision
+As a participant in the Beta Program, you agree to provide Servly with feedback regarding the Beta Products, which may include comments, suggestions, bug reports, feature requests, or other input ("Feedback").
+
+### 6.2 Feedback License
+You grant Servly a perpetual, irrevocable, worldwide, royalty-free, fully paid-up, transferable, sublicensable license to use, reproduce, modify, create derivative works from, distribute, publicly perform, and publicly display your Feedback for any purpose and in any manner without any restriction or obligation.
+
+### 6.3 No Compensation
+You understand and agree that you will not receive any compensation for your Feedback, even if Servly incorporates your Feedback into the final release version of the Beta Products or other Servly products or services.
+
+## 7. INTELLECTUAL PROPERTY
+
+### 7.1 Ownership
+Servly and its licensors retain all right, title, and interest in and to the Beta Products, including all intellectual property rights therein. This Agreement does not transfer any ownership rights to you.
+
+### 7.2 Suggestions and Contributions
+If you suggest or contribute any code, design elements, or other materials to Servly during your participation in the Beta Program, such suggestions and contributions will be deemed an assignment to Servly of all rights, title, and interest in and to such suggestions and contributions.
+
+### 7.3 Trademark Usage
+You may not use Servly's trademarks, logos, or trade names except as expressly permitted in writing by Servly.
+
+## 8. BETA PROGRAM COMMUNICATION
+
+### 8.1 Communication Channels
+During the Beta Program, Servly may communicate with you through various channels, including:
+• Email
+• In-product notifications
+• Beta Program forums or discussion boards
+• Feedback forms or surveys
+• Video or audio conferences
+• Other electronic communication methods
+
+### 8.2 Mandatory Communications
+You agree to receive communications from Servly regarding the Beta Program, including:
+• Updates or changes to the Beta Products
+• Requests for feedback
+• Notifications about the Beta Program status
+• Administrative or operational communications
+
+## 9. DISCLAIMER OF WARRANTIES
+
+THE BETA PRODUCTS ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND. SERVLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR THAT THE BETA PRODUCTS WILL BE UNINTERRUPTED, ERROR-FREE, OR FREE FROM HARMFUL COMPONENTS.
+
+YOU ACKNOWLEDGE THAT THE BETA PRODUCTS ARE PRE-RELEASE VERSIONS THAT MAY CONTAIN BUGS, ERRORS, OR OTHER DEFECTS AND ARE NOT INTENDED FOR PRODUCTION USE. YOUR USE OF THE BETA PRODUCTS IS AT YOUR SOLE RISK.
+
+## 10. LIMITATION OF LIABILITY
+
+### 10.1 Exclusion of Damages
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL SERVLY OR ITS AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, EVEN IF SERVLY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+### 10.2 Limitation of Liability
+IN NO EVENT WILL SERVLY'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING FROM OR RELATED TO THIS AGREEMENT OR THE BETA PRODUCTS EXCEED THE GREATER OF: (A) THE AMOUNT PAID BY YOU TO SERVLY FOR PARTICIPATION IN THE BETA PROGRAM (IF ANY) DURING THE 12 MONTHS PRIOR TO THE EVENT GIVING RISE TO LIABILITY; OR (B) ZAR 1,000.
+
+### 10.3 Basis of the Bargain
+THE LIMITATIONS OF LIABILITY IN THIS SECTION ARE AN ESSENTIAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN SERVLY AND YOU AND WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+## 11. DATA PRIVACY
+
+### 11.1 Data Collection
+During your participation in the Beta Program, Servly may collect the following types of data:
+• Usage data regarding your interaction with the Beta Products
+• Performance and diagnostic data from the Beta Products
+• Feedback and communications you provide
+• Technical environment information
+
+### 11.2 Data Usage
+Servly may use the collected data to:
+• Improve and enhance the Beta Products
+• Fix bugs and resolve issues
+• Develop new features or services
+• Communicate with you about the Beta Program
+• Administer the Beta Program
+
+### 11.3 Privacy Policy
+Your personal information will be handled in accordance with Servly's Privacy Policy, which is incorporated by reference into this Agreement.
+
+## 12. GENERAL PROVISIONS
+
+### 12.1 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of South Africa, without regard to its conflict of law principles.
+
+### 12.2 Dispute Resolution
+Any dispute arising out of or relating to this Agreement shall be finally settled by arbitration under the rules of the Arbitration Foundation of Southern Africa by one or more arbitrators appointed in accordance with said rules. The arbitration shall take place in Cape Town, South Africa, and shall be conducted in English.
+
+### 12.3 No Waiver
+The failure of Servly to enforce any right or provision of this Agreement will not be deemed a waiver of such right or provision.
+
+### 12.4 Severability
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect, and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.
+
+### 12.5 Entire Agreement
+This Agreement, together with any Non-Disclosure Agreement and other referenced documents, constitutes the entire agreement between you and Servly regarding the Beta Program and supersedes all prior or contemporaneous communications and proposals, whether electronic, oral, or written, between you and Servly regarding the Beta Program.
+
+### 12.6 Assignment
+You may not assign or transfer this Agreement or any rights or obligations hereunder without the prior written consent of Servly. Servly may assign this Agreement without your consent to a subsidiary or affiliate, or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
+
+### 12.7 Force Majeure
+Neither party shall be liable for any failure or delay in performance due to causes beyond its reasonable control, including but not limited to acts of God, pandemic, natural disasters, war, terrorism, riots, civil unrest, government action, labor strikes, or power failures.
+
+### 12.8 Contact Information
+If you have any questions about this Agreement or the Beta Program, please contact us at:
+
+Servly (Pty) Ltd  
+Email: info@servly.app
+
+## 13. ACKNOWLEDGMENT
+
+BY PARTICIPATING IN THE BETA PROGRAM, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.

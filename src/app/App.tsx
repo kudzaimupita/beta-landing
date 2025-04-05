@@ -9,11 +9,12 @@ import TermsOfUse from "@/pages/Legal/TermsOfUse";
 import PrivacyPolicy from "@/pages/Legal/PrivacyPolicy";
 import PricingPolicy from "@/pages/Legal/PricingPolicy";
 import RefundPolicy from "@/pages/Legal/RefundPolicy";
+import AcceptableUsePolicy from "@/pages/Legal/AcceptableUse";
+import BetaProgrammePolicy from "@/pages/Legal/BetaProgrammePolicy";
 
 const App: FC = () => {
   useEffect(() => {
-    console.log(`
-      We're hiring soon! Visit https://servly.app/careers
+    console.log(`We're hiring soon! Visit https://servly.app/careers
       ${ConsoleText}
     `);
   }, []);
@@ -36,6 +37,8 @@ const App: FC = () => {
         <Route path="/legal/privacy" element={<PrivacyPolicy />} />
         <Route path="/legal/pricing" element={<PricingPolicy />} />
         <Route path="/legal/refund" element={<RefundPolicy />} />
+        <Route path="/legal/acceptable-use" element={<AcceptableUsePolicy />} />
+        <Route path="/legal/beta-programme" element={<BetaProgrammePolicy />} />
 
         {/* Catch-all route - redirects all 404s to index */}
         <Route path="*" element={<Navigate to="/" replace />} />

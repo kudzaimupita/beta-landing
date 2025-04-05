@@ -1,0 +1,332 @@
+{
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price": {
+        "monthly": 24.99,
+        "yearly": 249.90,
+        "savings": "16%"
+      },
+      "features": {
+        "userManagement": {
+          "userAccounts": "Single user account",
+          "managedAuth": "Managed Auth (JWT)",
+          "teamManagement": null,
+          "userRoles": null,
+          "ssoIntegration": null
+        },
+        "projects": {
+          "limit": "Up to 3 projects"
+        },
+        "storage": {
+          "limit": "5GB storage"
+        },
+        "domInspector": {
+          "nodeIdentifier": true,
+          "nodePreview": false,
+          "fullCapabilities": false
+        },
+        "views": {
+          "limit": "10 Views",
+          "payPerView": false
+        },
+        "deployments": {
+          "limit": "5 Deployments per month",
+          "priority": false
+        },
+        "components": {
+          "level": "Basic React components library",
+          "custom": false
+        },
+        "templates": {
+          "level": "Standard templates",
+          "custom": false
+        },
+        "backend": {
+          "controllers": "Basic controllers",
+          "custom": false
+        },
+        "database": {
+          "storage": "Basic storage capabilities",
+          "studio": false,
+          "studioResources": null
+        },
+        "collaboration": {
+          "tools": null,
+          "codeExport": false
+        },
+        "support": {
+          "level": "Community support",
+          "analytics": "Basic analytics",
+          "responseTime": null,
+          "phoneSuppport": false,
+          "dedicatedManager": false,
+          "training": false,
+          "sla": false
+        },
+        "domains": {
+          "connections": "Single custom domain connection"
+        },
+        "api": {
+          "access": false,
+          "rateLimits": null,
+          "custom": false
+        },
+        "branding": {
+          "removeServly": false,
+          "whiteLabelingOptions": false,
+          "completeWhiteLabeling": false
+        },
+        "compliance": {
+          "certifications": false
+        }
+      }
+    },
+    {
+      "name": "Professional Plan",
+      "price": {
+        "monthly": 49.99,
+        "yearly": 499.90,
+        "savings": "16%"
+      },
+      "features": {
+        "userManagement": {
+          "userAccounts": "Up to 5 user accounts",
+          "managedAuth": "Managed Auth (JWT)",
+          "teamManagement": null,
+          "userRoles": null,
+          "ssoIntegration": null
+        },
+        "projects": {
+          "limit": "Up to 10 projects"
+        },
+        "storage": {
+          "limit": "100GB storage"
+        },
+        "domInspector": {
+          "nodeIdentifier": true,
+          "nodePreview": true,
+          "fullCapabilities": false
+        },
+        "views": {
+          "limit": "30 Views",
+          "payPerView": true
+        },
+        "deployments": {
+          "limit": "20 Deployments per month",
+          "priority": false
+        },
+        "components": {
+          "level": "Advanced React components library",
+          "custom": false
+        },
+        "templates": {
+          "level": "Premium templates",
+          "custom": false
+        },
+        "backend": {
+          "controllers": "Standard controllers",
+          "custom": false
+        },
+        "database": {
+          "storage": "Database Studio access",
+          "studio": true,
+          "studioResources": "Standard Studio Resources"
+        },
+        "collaboration": {
+          "tools": "Basic collaboration tools",
+          "codeExport": true
+        },
+        "support": {
+          "level": "Email support",
+          "analytics": "Advanced analytics",
+          "responseTime": "24-hour response time",
+          "phoneSuppport": false,
+          "dedicatedManager": false,
+          "training": false,
+          "sla": false
+        },
+        "domains": {
+          "connections": "Custom domain connection"
+        },
+        "api": {
+          "access": true,
+          "rateLimits": "Standard API access",
+          "custom": false
+        },
+        "branding": {
+          "removeServly": true,
+          "whiteLabelingOptions": false,
+          "completeWhiteLabeling": false
+        },
+        "compliance": {
+          "certifications": false
+        }
+      }
+    },
+    {
+      "name": "Business Plan",
+      "price": {
+        "monthly": 149.99,
+        "yearly": 1499.90,
+        "savings": "16%"
+      },
+      "features": {
+        "userManagement": {
+          "userAccounts": "Up to 20 user accounts",
+          "managedAuth": "Managed Auth (JWT)",
+          "teamManagement": true,
+          "userRoles": true,
+          "ssoIntegration": false
+        },
+        "projects": {
+          "limit": "Unlimited projects"
+        },
+        "storage": {
+          "limit": "500GB storage"
+        },
+        "domInspector": {
+          "nodeIdentifier": true,
+          "nodePreview": true,
+          "fullCapabilities": false
+        },
+        "views": {
+          "limit": "Unlimited Views",
+          "payPerView": false
+        },
+        "deployments": {
+          "limit": "Unlimited Deployments",
+          "priority": false
+        },
+        "components": {
+          "level": "Full React components library",
+          "custom": false
+        },
+        "templates": {
+          "level": "All templates",
+          "custom": false
+        },
+        "backend": {
+          "controllers": "Advanced controllers",
+          "custom": false
+        },
+        "database": {
+          "storage": "Full Database Studio access",
+          "studio": true,
+          "studioResources": "Extended Studio Resources"
+        },
+        "collaboration": {
+          "tools": "Advanced collaboration tools",
+          "codeExport": true
+        },
+        "support": {
+          "level": "Priority email support",
+          "analytics": "Comprehensive analytics",
+          "responseTime": "8-hour response time",
+          "phoneSuppport": true,
+          "dedicatedManager": false,
+          "training": false,
+          "sla": false
+        },
+        "domains": {
+          "connections": "Multiple custom domain connections"
+        },
+        "api": {
+          "access": true,
+          "rateLimits": "Higher rate limits",
+          "custom": false
+        },
+        "branding": {
+          "removeServly": true,
+          "whiteLabelingOptions": true,
+          "completeWhiteLabeling": false
+        },
+        "compliance": {
+          "certifications": false
+        }
+      }
+    },
+    {
+      "name": "Enterprise Plan",
+      "price": {
+        "monthly": "Custom pricing",
+        "yearly": "Custom pricing",
+        "savings": null
+      },
+      "features": {
+        "userManagement": {
+          "userAccounts": "Unlimited user accounts",
+          "managedAuth": "Managed Auth (JWT)",
+          "teamManagement": "Advanced team management",
+          "userRoles": "Customizable user roles and permissions",
+          "ssoIntegration": true
+        },
+        "projects": {
+          "limit": "Unlimited projects"
+        },
+        "storage": {
+          "limit": "Custom storage allocation"
+        },
+        "domInspector": {
+          "nodeIdentifier": true,
+          "nodePreview": true,
+          "fullCapabilities": true
+        },
+        "views": {
+          "limit": "Unlimited Views",
+          "payPerView": false
+        },
+        "deployments": {
+          "limit": "Unlimited Deployments",
+          "priority": true
+        },
+        "components": {
+          "level": "Full React components library",
+          "custom": true
+        },
+        "templates": {
+          "level": "All templates",
+          "custom": true
+        },
+        "backend": {
+          "controllers": "Custom controllers",
+          "custom": true
+        },
+        "database": {
+          "storage": "Premium Database Studio access",
+          "studio": true,
+          "studioResources": "Unlimited Studio Resources"
+        },
+        "collaboration": {
+          "tools": "Enterprise-grade collaboration tools",
+          "codeExport": "Advanced code export options"
+        },
+        "support": {
+          "level": "24/7 priority support",
+          "analytics": "Custom analytics and reporting",
+          "responseTime": "Immediate",
+          "phoneSuppport": true,
+          "dedicatedManager": true,
+          "training": "Custom training and onboarding",
+          "sla": true
+        },
+        "domains": {
+          "connections": "Multiple custom domain connections"
+        },
+        "api": {
+          "access": true,
+          "rateLimits": "Unlimited",
+          "custom": true
+        },
+        "branding": {
+          "removeServly": true,
+          "whiteLabelingOptions": true,
+          "completeWhiteLabeling": true
+        },
+        "compliance": {
+          "certifications": true
+        }
+      }
+    }
+  ]
+}

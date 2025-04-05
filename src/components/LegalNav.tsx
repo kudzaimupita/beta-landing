@@ -11,7 +11,9 @@ export const LegalNav: FC = () => {
         { id: "terms", title: "Terms of Use", path: "/legal/terms" },
         { id: "privacy", title: "Privacy Policy", path: "/legal/privacy" },
         { id: "pricing", title: "Pricing Policy", path: "/legal/pricing" },
-        { id: "refund", title: "Refund Policy", path: "/legal/refund" }
+        { id: "refund", title: "Refund Policy", path: "/legal/refund" },
+        { id: "acceptable-use", title: "Acceptable Use Policy", path: "/legal/acceptable-use" },
+        { id: "beta-programme", title: "Beta Programme Policy", path: "/legal/beta-programme" }
     ];
 
     return (

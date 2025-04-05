@@ -1,4 +1,6 @@
-**Last Updated: April 3, 2025**
+<div class="text-sm">Last Updated: April 6, 2025</div>
+
+<hr />
 
 ## 1. INTRODUCTION
 
@@ -6,83 +8,169 @@ This Pricing Policy outlines the pricing structure, payment terms, and related p
 
 ## 2. SUBSCRIPTION PLANS
 
-Servly offers the following subscription plans, designed to meet the needs of different users:
+Servly offers the following subscription plans, designed to meet the needs of different users building responsive web applications with our React and Figma-inspired interface:
 
 ### 2.1 Basic Plan
-**Price**: $19.99 per month or $199.90 per year (save 16%)
+**Price**: $24.99 per month or $249.90 per year (save 16%)
 
 **Features**:
-- Single user account
-- Up to 3 projects
-- 5GB storage
-- Basic React components library
-- Standard templates
-- Community support
-- Basic analytics
-- Custom domain connection
+• **User Management**
+  • Single user account
+  • Managed Auth (JWT)
+• **Projects**
+  • Up to 3 projects
+• **Storage**
+  • 5GB storage
+• **DOM Inspector**
+  • Node Identifier
+• **Views**
+  • 10 Views
+• **Deployments**
+  • 5 Deployments per month
+• **Components**
+  • Basic React components library
+• **Templates**
+  • Standard templates
+• **Backend**
+  • Basic controllers
+• **Database**
+  • Basic storage capabilities
+• **Support**
+  • Community support
+  • Basic analytics
+• **Domains**
+  • Single custom domain connection
 
 ### 2.2 Professional Plan
 **Price**: $49.99 per month or $499.90 per year (save 16%)
 
 **Features**:
-- Up to 3 user accounts
-- Up to 10 projects
-- 20GB storage
-- Advanced React components library
-- Premium templates
-- Email support with 24-hour response time
-- Advanced analytics
-- Custom domain connection
-- Export code functionality
-- Collaboration tools
-- API access
-- Remove Servly branding
+• **User Management**
+  • Up to 5 user accounts
+  • Managed Auth (JWT)
+• **Projects**
+  • Up to 10 projects
+• **Storage**
+  • 100GB storage
+• **DOM Inspector**
+  • Node preview
+  • Node Identifier
+• **Views**
+  • 30 Views
+  • Pay-per-view option for additional views
+• **Deployments**
+  • 20 Deployments per month
+• **Components**
+  • Advanced React components library
+• **Templates**
+  • Premium templates
+• **Backend**
+  • Standard controllers
+• **Database**
+  • Database Studio access
+  • Standard Studio Resources
+• **Collaboration**
+  • Basic collaboration tools
+  • Export code functionality
+• **Support**
+  • Email support with 24-hour response time
+  • Advanced analytics
+• **Domains**
+  • Custom domain connection
+• **API**
+  • Standard API access
+• **Branding**
+  • Remove Servly branding
 
 ### 2.3 Business Plan
-**Price**: $99.99 per month or $999.90 per year (save 16%)
+**Price**: $149.99 per month or $1,499.90 per year (save 16%)
 
 **Features**:
-- Up to 10 user accounts
-- Unlimited projects
-- 50GB storage
-- Full React components library
-- All templates
-- Priority email support with 8-hour response time
-- Phone support during business hours
-- Comprehensive analytics
-- Custom domain connection
-- Export code functionality
-- Advanced collaboration tools
-- API access with higher rate limits
-- Remove Servly branding
-- White-labeling options
-- Team management tools
-- User roles and permissions
+• **User Management**
+  • Up to 20 user accounts
+  • Managed Auth (JWT)
+  • Team management tools
+  • User roles and permissions
+• **Projects**
+  • Unlimited projects
+• **Storage**
+  • 500GB storage
+• **DOM Inspector**
+  • Node preview
+  • Node Identifier
+• **Views**
+  • Unlimited Views
+• **Deployments**
+  • Unlimited Deployments
+• **Components**
+  • Full React components library
+• **Templates**
+  • All templates
+• **Backend**
+  • Advanced controllers
+• **Database**
+  • Full Database Studio access
+  • Extended Studio Resources
+• **Collaboration**
+  • Advanced collaboration tools
+  • Export code functionality
+• **Support**
+  • Priority email support with 8-hour response time
+  • Phone support during business hours
+  • Comprehensive analytics
+• **Domains**
+  • Multiple custom domain connections
+• **API**
+  • API access with higher rate limits
+• **Branding**
+  • White-labeling options
 
 ### 2.4 Enterprise Plan
 **Price**: Custom pricing based on needs
 
 **Features**:
-- Unlimited user accounts
-- Unlimited projects
-- Custom storage allocation
-- Full React components library with custom components
-- All templates plus custom template creation
-- Dedicated support manager
-- 24/7 priority support
-- Custom analytics and reporting
-- Multiple custom domain connections
-- Advanced code export options
-- Enterprise-grade collaboration tools
-- Custom API integration
-- Remove Servly branding
-- Complete white-labeling
-- Advanced team management
-- Customizable user roles and permissions
-- Single Sign-On (SSO) integration
-- Custom training and onboarding
-- Service Level Agreement (SLA)
-- Compliance certifications
+• **User Management**
+  • Unlimited user accounts
+  • Managed Auth (JWT)
+  • Advanced team management
+  • Customizable user roles and permissions
+  • Single Sign-On (SSO) integration
+• **Projects**
+  • Unlimited projects
+• **Storage**
+  • Custom storage allocation
+• **DOM Inspector**
+  • Full capabilities
+• **Views**
+  • Unlimited Views
+• **Deployments**
+  • Unlimited Deployments with priority
+• **Components**
+  • Full React components library with custom components
+• **Templates**
+  • All templates plus custom template creation
+• **Backend**
+  • Custom controllers
+• **Database**
+  • Premium Database Studio access
+  • Unlimited Studio Resources
+• **Collaboration**
+  • Enterprise-grade collaboration tools
+  • Advanced code export options
+• **Support**
+  • Dedicated support manager
+  • 24/7 priority support
+  • Custom analytics and reporting
+  • Custom training and onboarding
+  • Service Level Agreement (SLA)
+• **Domains**
+  • Multiple custom domain connections
+• **API**
+  • Custom API integration
+• **Branding**
+  • Complete white-labeling
+• **Compliance**
+  • Compliance certifications
 
 ## 3. PAYMENT TERMS
 
@@ -91,15 +179,15 @@ All prices are listed in United States Dollars (USD). For users outside the Unit
 
 ### 3.2 Payment Methods
 We accept the following payment methods:
-- Credit cards (Visa, MasterCard, American Express, Discover)
-- Debit cards
-- PayPal
-- Bank transfer (for Enterprise plan only)
+• Credit cards (Visa, MasterCard, American Express, Discover)
+• Debit cards
+• PayPal
+• Bank transfer (for Enterprise plan only)
 
 ### 3.3 Billing Cycles
-- **Monthly Subscriptions**: Billed on the same day each month
-- **Annual Subscriptions**: Billed once per year on the anniversary of your subscription start date
-- **Enterprise Subscriptions**: Custom billing cycles as specified in your Enterprise agreement
+• **Monthly Subscriptions**: Billed on the same day each month
+• **Annual Subscriptions**: Billed once per year on the anniversary of your subscription start date
+• **Enterprise Subscriptions**: Custom billing cycles as specified in your Enterprise agreement
 
 ### 3.4 Automatic Renewal
 All subscriptions automatically renew at the end of each billing cycle unless canceled prior to the renewal date. You will receive a renewal notification email approximately 7 days before your subscription renews.
@@ -125,9 +213,17 @@ Any international transaction fees or currency conversion fees charged by your b
 
 ### 5.1 Upgrades
 You may upgrade your subscription plan at any time. When upgrading:
-- The new subscription will take effect at the end of your current billing cycle
-- No refunds will be issued for the unused portion of your current billing cycle
-- Features from your previous plan may remain available until the end of your current billing cycle
+• The new subscription will take effect immediately
+• You will be charged the prorated difference between your current plan and the new plan for the remainder of your current billing cycle
+• Your next billing date will remain the same
+
+### 5.2 Downgrades
+You may downgrade your subscription plan at any time. When downgrading:
+• The new subscription will take effect at the end of your current billing cycle
+• No refunds will be issued for the unused portion of your current billing cycle
+• Some features from your higher-tier plan may become unavailable immediately upon downgrading
+• Any data or content that relies on higher-tier features may be archived and inaccessible until you upgrade again
+• Projects exceeding the storage or project limits of your new plan will be placed in a read-only state until you reduce usage to within the new plan limits
 
 ### 5.3 Trial to Paid Conversion
 If you are on a free trial, you will be automatically converted to the paid plan you selected at the end of your trial period, unless you cancel before the trial ends. You will be charged the full amount of the selected plan when your trial expires.
@@ -139,13 +235,13 @@ We may occasionally offer promotional pricing or discounts on our subscription p
 
 ### 6.2 Discount Codes
 Discount codes must be applied at the time of subscription or renewal and cannot be applied retroactively. Unless otherwise specified, discount codes:
-- Can only be used once per account
-- Cannot be combined with other offers
-- Have no cash value
-- May expire after a certain period
+• Can only be used once per account
+• Cannot be combined with other offers
+• Have no cash value
+• May expire after a certain period
 
 ### 6.3 Educational and Non-Profit Discounts
-We offer special pricing for eligible educational institutions and registered non-profit organizations. Please contact our sales team at [sales email address] with appropriate documentation to apply for these discounts.
+We offer special pricing for eligible educational institutions and registered non-profit organizations. Please contact our sales team at info@servly.app with appropriate documentation to apply for these discounts.
 
 ## 7. FREE TRIAL
 
@@ -154,23 +250,23 @@ New users may be eligible for a 14-day free trial of the Professional plan. No p
 
 ### 7.2 Trial Limitations
 During the free trial:
-- You will have access to most features of the Professional plan
-- Certain features may be limited or unavailable
-- Projects created during the trial will remain accessible if you subscribe to a paid plan
+• You will have access to most features of the Professional plan
+• Certain features may be limited or unavailable
+• Projects created during the trial will remain accessible if you subscribe to a paid plan
 
 ### 7.3 Trial Expiration
 At the end of your trial period:
-- You will need to select and subscribe to a paid plan to continue using the Service
-- If you do not subscribe to a paid plan, your account will be downgraded to a limited free mode with restricted access to your projects
+• You will need to select and subscribe to a paid plan to continue using the Service
+• If you do not subscribe to a paid plan, your account will be downgraded to a limited free mode with restricted access to your projects
 
 ## 8. ACCOUNT CREDITS
 
 ### 8.1 Credit Balance
 Account credits may be issued as part of promotional offers, refunds, or compensation for service issues. Credits:
-- Will be automatically applied to future invoices
-- Cannot be converted to cash
-- Have no monetary value outside of Servly
-- May expire after a specified period
+• Will be automatically applied to future invoices
+• Cannot be converted to cash
+• Have no monetary value outside of Servly
+• May expire after a specified period
 
 ### 8.2 Credit Usage
 Credits are applied before charging your payment method. If your credit balance covers the entire amount of your subscription fee, no charge will be made to your payment method for that billing cycle.
@@ -191,21 +287,21 @@ Price changes will not affect existing subscriptions until the next renewal date
 
 ### 11.1 Failed Payments
 If a payment fails, we will:
-- Attempt to process the payment again within the next few days
-- Notify you by email about the failed payment
-- Provide instructions on how to update your payment information
+• Attempt to process the payment again within the next few days
+• Notify you by email about the failed payment
+• Provide instructions on how to update your payment information
 
 ### 11.2 Account Suspension
 If we are unable to successfully process your payment after multiple attempts, your account may be suspended. During suspension:
-- Access to premium features will be restricted
-- Your data and projects will be preserved
-- You can restore full access by updating your payment information and paying any outstanding balance
+• Access to premium features will be restricted
+• Your data and projects will be preserved
+• You can restore full access by updating your payment information and paying any outstanding balance
 
 ### 11.3 Account Reactivation
 To reactivate a suspended account:
-- Log in to your account
-- Update your payment information
-- Process the outstanding payment
+• Log in to your account
+• Update your payment information
+• Process the outstanding payment
 
 ## 12. ENTERPRISE AGREEMENTS
 
@@ -227,20 +323,29 @@ For users in South Africa, all payments and financial transactions comply with r
 ### 14.2 International Financial Regulations
 We comply with all applicable international financial regulations, including anti-money laundering laws and sanctions. We reserve the right to refuse or cancel transactions that we reasonably believe may violate applicable laws or regulations.
 
-## 15. CHANGES TO THIS POLICY
+## 15. PAY-PER-USE FEATURES
+
+### 15.1 Additional Views
+Professional Plan subscribers who exceed their 30 included views can purchase additional views at the following rates:
+• $0.50 per additional view
+• Bundle of 10 additional views: $4.50 (10% savings)
+• Bundle of 50 additional views: $20.00 (20% savings)
+
+### 15.2 Additional Deployments
+Basic and Professional Plan subscribers who exceed their monthly deployment limits can purchase additional deployments:
+• Basic Plan: $2.00 per additional deployment
+• Professional Plan: $1.50 per additional deployment
+
+### 15.3 Billing for Pay-Per-Use Features
+Charges for pay-per-use features will be billed at the end of your billing cycle along with your subscription fee. Usage metrics are calculated based on your usage during that billing cycle.
+
+## 16. CHANGES TO THIS POLICY
 
 We may update this Pricing Policy from time to time. If we make material changes to this policy, we will notify you by email or by posting a notice on our website prior to the effective date of the changes.
 
-## 16. CONTACT US
+## 17. CONTACT US
 
 If you have any questions about our pricing or need billing assistance, please contact our billing support team at:
 
-Servly (Pty) Ltd
+Servly (Pty) Ltd  
 Email: info@servly.app
- effect immediately
-- You will be charged the prorated difference between your current plan and the new plan for the remainder of your current billing cycle
-- Your next billing date will remain the same
-
-### 5.2 Downgrades
-You may downgrade your subscription plan at any time. When downgrading:
-- The new subscription will take

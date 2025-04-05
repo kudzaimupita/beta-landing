@@ -1,0 +1,182 @@
+<div class="text-sm">Last Updated: April 6, 2025</div>
+
+<hr class="mt-3" />
+
+## 1. INTRODUCTION
+
+This Acceptable Use Policy ("Policy") governs your use of Servly's web building platform and all related services, applications, and features (collectively, the "Service"). This Policy is incorporated by reference into Servly's Terms of Use and applies to all users of the Service, including those on free trials, paid subscriptions, and enterprise agreements.
+
+Servly (Pty) Ltd ("Servly," "we," "us," or "our") is committed to providing a secure, respectful, and productive environment for all users. By using the Service, you agree to comply with this Policy. If you do not agree with this Policy, you may not use the Service.
+
+## 2. GENERAL RESPONSIBILITIES
+
+As a user of the Service, you are responsible for:
+
+• Complying with all applicable laws, regulations, and third-party rights in all jurisdictions where you use the Service
+• Ensuring that your content and activities do not violate the rights of others
+• Maintaining the confidentiality and security of your account credentials
+• All activities that occur under your account, including those by authorized users
+• Ensuring that all authorized users under your account are aware of and comply with this Policy
+• Promptly reporting any suspected security vulnerabilities or Policy violations to Servly
+
+## 3. PROHIBITED USES
+
+You agree not to use the Service to:
+
+### 3.1 Illegal Activities
+• Violate any applicable local, state, national, or international law or regulation
+• Promote, facilitate, or engage in illegal activities
+• Distribute malware, viruses, or other malicious code
+• Attempt to circumvent or disable any security features of the Service
+• Access the Service by any means other than through the interfaces that we provide
+
+### 3.2 Harmful, Fraudulent, or Deceptive Activities
+• Engage in activities that are deceptive, fraudulent, or misleading
+• Create websites that impersonate others or misrepresent your affiliation with any person or entity
+• Use the Service for phishing, pharming, or similar activities
+• Engage in activities designed to artificially inflate traffic, page views, or similar metrics
+• Create websites that conceal or misrepresent their purpose
+• Send, upload, or distribute material that contains software viruses or other harmful computer code
+
+### 3.3 Unauthorized Access or Network Abuse
+• Gain unauthorized access to other users' accounts or private data
+• Attempt to probe, scan, or test the vulnerability of the Service or any network connected to the Service
+• Breach or circumvent any security or authentication measures
+• Interfere with or disrupt the Service or servers or networks connected to the Service
+• Impose an unreasonably large load on our infrastructure
+• Distribute denial of service attacks, ping floods, packet corruption, or similar disruptive activities
+
+### 3.4 Intellectual Property Infringement
+• Infringe the intellectual property rights, privacy rights, or other rights of third parties
+• Upload, post, or otherwise transmit content that you do not have the rights to use
+• Use Servly's trademarks, logos, or branding without our explicit permission
+• Remove, alter, or obscure any copyright, trademark, or other proprietary notices
+
+### 3.5 Objectionable Content
+• Create, display, or transmit content that is harmful, abusive, offensive, or promotes hatred or discrimination
+• Create websites containing:
+  - Pornography or sexually explicit material
+  - Depictions of violence or cruelty
+  - Hate speech or discriminatory content
+  - Content harmful to minors
+  - Gambling or unlawful gaming content without proper licensing
+  - Sale of illegal or regulated substances without proper authorization
+  - Instructions for illegal activities
+
+### 3.6 Spam and Unsolicited Communications
+• Send unsolicited commercial communications (spam)
+• Harvest or collect email addresses or other contact information for the purpose of sending unsolicited communications
+• Create or send unwanted email, comments, or other forms of commercial or harassing communications
+
+### 3.7 Platform Abuse
+• Resell or redistribute the Service or provide access to third parties without Servly's authorization
+• Use the Service in a way that negatively affects the ability of other users to use the Service
+• Use automated scripts to collect information from or interact with the Service
+• Use the Service primarily as a data storage or archive service
+• Exceed reasonable bandwidth, storage, or other resource limitations
+
+## 4. WEBSITE CONTENT GUIDELINES
+
+Websites and applications created using the Service must adhere to the following guidelines:
+
+### 4.1 Content Transparency
+• Clearly identify the purpose and nature of your website
+• Provide accurate information about the individuals or organizations behind the website
+• Include appropriate disclaimers, terms of use, and privacy policies
+
+### 4.2 User-Generated Content
+If your website allows users to submit content or comments, you must:
+• Implement appropriate moderation measures
+• Provide a mechanism for users to report problematic content
+• Promptly remove content that violates this Policy or applicable laws
+• Maintain appropriate records as required by applicable laws
+
+### 4.3 Commercial Activities
+If your website engages in commercial activities, you must:
+• Clearly disclose all fees, terms, and conditions
+• Accurately represent your products and services
+• Comply with all applicable consumer protection laws
+• Implement appropriate security measures for handling payments and personal information
+• Obtain all necessary licenses and permits for regulated industries
+
+### 4.4 Data Protection
+Websites that collect user data must:
+• Have a clear and accessible privacy policy
+• Obtain appropriate consent for data collection and processing
+• Comply with applicable data protection laws (including GDPR, POPIA, CCPA, etc.)
+• Implement reasonable security measures to protect user data
+• Provide mechanisms for users to access, correct, and delete their data
+
+## 5. RESOURCE USAGE
+
+The Service is designed to provide you with reasonable resources for building and hosting websites and applications. To ensure fair usage for all users:
+
+### 5.1 Computing Resources
+• You must not use excessive computing resources that negatively impact other users
+• Applications with significant processing requirements should implement appropriate caching and optimization
+• Batch processing or background tasks should be limited to reasonable durations and frequencies
+
+### 5.2 Storage Limitations
+• Storage usage must be within the limits of your subscription plan
+• Media files should be appropriately optimized for web usage
+• The Service should not be used as a general-purpose file storage system
+
+### 5.3 Bandwidth Usage
+• Bandwidth consumption should be within reasonable limits for web applications
+• High-bandwidth features (such as video streaming or large file downloads) should implement appropriate throttling or distribution mechanisms
+• Content delivery should be optimized to minimize unnecessary data transfer
+
+## 6. SECURITY REQUIREMENTS
+
+### 6.1 Account Security
+• You must use strong, unique passwords for your Servly account
+• Enable two-factor authentication when available
+• Do not share account credentials with unauthorized individuals
+• Promptly notify Servly of any potential security breaches
+
+### 6.2 Application Security
+• Implement appropriate security measures in your applications
+• Regularly review and update your code to address security vulnerabilities
+• Follow secure coding practices and industry standards
+• Validate and sanitize all user inputs
+• Use secure connections (HTTPS) for transmitting sensitive information
+
+### 6.3 Vulnerability Management
+• Promptly address security vulnerabilities in your code and applications
+• Implement appropriate access controls and authentication mechanisms
+• Regularly update dependencies and third-party components
+• Conduct security testing before deploying applications to production
+
+### 6.4 Authentication & Access Control
+• Implement appropriate access controls for your applications
+• Protect sensitive features with proper authentication
+• Follow the principle of least privilege when granting access
+• Regularly review and audit access permissions
+
+## 7. MONITORING AND ENFORCEMENT
+
+### 7.1 Monitoring
+Servly reserves the right to monitor the Service for compliance with this Policy. This monitoring may include:
+• Automated scanning for security vulnerabilities
+• Review of resource usage patterns
+• Investigation of reported Policy violations
+• Periodic audits of websites and applications
+
+### 7.2 Reporting Violations
+If you become aware of any violation of this Policy, please report it to:
+• Email: abuse@servly.app
+• Contact form: https://servly.app/report-abuse
+• In-product reporting tools
+
+### 7.3 Enforcement Actions
+In the event of a Policy violation, Servly may take one or more of the following actions:
+• Issue a warning
+• Temporarily suspend access to the Service
+• Remove or disable access to content that violates this Policy
+• Terminate or restrict access to the Service
+• Disclose information to law enforcement as required by law
+
+### 7.4 Appeal Process
+If you believe an enforcement action was taken in error, you may appeal by:
+• Submitting a detailed explanation to support@servly.app
+• Providing any relevant evidence or
