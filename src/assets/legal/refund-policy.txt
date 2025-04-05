@@ -1,0 +1,156 @@
+**Last Updated: April 3, 2025**
+
+## 1. INTRODUCTION
+
+This Refund Policy outlines the terms and conditions under which Servly (Pty) Ltd ("Servly," "we," "us," or "our") provides refunds for our web building platform and related services (collectively, the "Service"). This Refund Policy is incorporated by reference into our Terms of Use and applies to all customers who purchase subscriptions or other paid services from Servly.
+
+We value your satisfaction and strive to provide a high-quality service. However, we understand that circumstances may arise where a refund may be appropriate. This policy explains our refund procedures and your rights as a customer.
+
+## 2. SUBSCRIPTION CANCELLATIONS
+
+### 2.1 Cancellation Process
+You may cancel your subscription at any time through one of the following methods:
+- Through your account settings on the Servly dashboard
+- By contacting our customer support team at [support email address]
+- By sending a written cancellation request to [billing email address]
+
+### 2.2 Effect of Cancellation
+When you cancel your subscription:
+- You will continue to have access to your paid features until the end of your current billing period
+- Your subscription will not automatically renew for the next billing period
+- No partial refunds will be issued for the unused portion of your current billing period, except as provided in Section 3 below
+- Your account will be downgraded to a limited free mode at the end of your billing period, with restricted access to your projects
+
+### 2.3 Data Retention After Cancellation
+Following cancellation:
+- Your data will be retained for 30 days after the end of your paid subscription period
+- After 30 days, your data may be permanently deleted or archived according to our data retention policies
+- You may export your data during the 30-day period
+
+## 3. REFUND ELIGIBILITY
+
+### 3.1 14-Day Money-Back Guarantee
+We offer a 14-day money-back guarantee for new subscribers to our monthly plans under the following conditions:
+- The refund request must be submitted within 14 days of your initial subscription payment
+- This guarantee applies only to your first subscription purchase with Servly
+- The refund will be processed for the full amount of your subscription payment
+
+### 3.2 Annual Subscription Refunds
+For annual subscriptions:
+- Full refunds are available within 14 days of the initial subscription purchase
+- Partial prorated refunds may be considered for cancellations after 14 days but within the first 30 days of the subscription
+- No refunds will be issued for annual subscriptions that have been active for more than 30 days, except in special circumstances at our discretion
+
+### 3.3 Special Circumstances
+We may issue refunds outside of the standard eligibility criteria in the following special circumstances:
+
+#### 3.3.1 Service Unavailability
+If our Service experiences significant downtime or technical issues that substantially prevent you from using the Service:
+- The issue must have persisted for at least 24 consecutive hours
+- You must report the issue to our support team while it is ongoing
+- The refund amount will be prorated based on the duration of the service disruption
+
+#### 3.3.2 Billing Errors
+If you have been charged incorrectly or multiple times:
+- You must notify us within 30 days of the billing error
+- You must provide evidence of the incorrect charge
+- We will refund the full amount of any erroneous charges
+
+#### 3.3.3 Other Circumstances
+Refunds may be considered on a case-by-case basis for other circumstances, such as:
+- Death or serious illness
+- Natural disasters affecting your ability to use the Service
+- Bankruptcy or severe financial hardship
+- Other extenuating circumstances at our discretion
+
+## 4. NON-REFUNDABLE ITEMS
+
+The following items and services are generally non-refundable:
+
+### 4.1 Add-on Purchases
+One-time purchases of add-ons, templates, components, or other digital goods are non-refundable once delivered or accessed, unless the item is defective or materially different from its description.
+
+### 4.2 Enterprise Plans
+Custom Enterprise plans are subject to the specific refund terms outlined in the Enterprise agreement and may differ from this general Refund Policy.
+
+### 4.3 Promotional Credits
+Credits or discounts provided as part of a promotion, compensation, or goodwill gesture have no cash value and are not refundable.
+
+### 4.4 Chargebacks
+If you initiate a chargeback with your payment provider instead of requesting a refund through our channels, you will forfeit your eligibility for any refund from Servly directly. Additionally, you may be responsible for any chargeback fees imposed by payment processors.
+
+## 5. REFUND PROCESS
+
+### 5.1 How to Request a Refund
+To request a refund, please:
+1. Contact our customer support team at [support email address]
+2. Include your account information, the date of purchase, and the reason for your refund request
+3. Provide any relevant documentation or evidence if applicable (e.g., for billing errors)
+
+### 5.2 Refund Processing Time
+Once approved:
+- Refunds to credit or debit cards typically process within 5-10 business days
+- PayPal refunds typically process within 3-5 business days
+- Bank transfer refunds may take 7-14 business days to complete
+
+### 5.3 Refund Method
+Refunds will be issued using the same payment method used for the original purchase. If this is not possible, we will work with you to find an alternative refund method.
+
+## 6. STATUTORY RIGHTS
+
+### 6.1 South African Consumer Protection Act
+For customers in South Africa, this Refund Policy complies with the Consumer Protection Act 68 of 2008 (CPA). Under the CPA, you have the right to:
+- Cancel a transaction within 7 days if the Service was purchased as a result of direct marketing
+- Return defective or non-conforming digital products
+- Receive a refund if we fail to deliver the Service as described
+
+### 6.2 European Union Customers
+For customers in the European Union, you have the right to withdraw from your subscription contract within 14 days without giving any reason, in accordance with the EU Consumer Rights Directive. However, you acknowledge that you lose your right of withdrawal once the digital content has been delivered to you and you have expressly consented to this and acknowledged the loss of your right of withdrawal.
+
+### 6.3 Other Jurisdictions
+This Refund Policy does not affect any statutory rights you may have under the laws of your country or region. Where local consumer protection laws provide for more favorable terms than those stated in this Refund Policy, your local laws will prevail.
+
+## 7. DISPUTE RESOLUTION
+
+If you believe your refund request has been incorrectly denied:
+1. Contact our customer support team to escalate your request
+2. If the issue remains unresolved, you may submit a formal complaint to [complaints email address]
+3. We will review your complaint and provide a final decision within 14 business days
+
+If you remain dissatisfied with our decision, you may seek resolution through:
+- The appropriate consumer protection authority in your jurisdiction
+- Alternative dispute resolution mechanisms as specified in our Terms of Use
+- Small claims court or other legal proceedings as permitted by law
+
+## 8. ABUSE PREVENTION
+
+We reserve the right to refuse refund requests that we reasonably believe are fraudulent or abusive, including but not limited to:
+- Multiple refund requests from the same customer
+- Patterns of subscription purchases followed by refund requests
+- Evidence of extensive use of the Service before requesting a refund
+- Any attempt to exploit this Refund Policy in bad faith
+
+## 9. CHANGES TO THIS POLICY
+
+We may update this Refund Policy from time to time. If we make material changes to this policy, we will notify you by email or by posting a notice on our website prior to the effective date of the changes. The updated policy will apply to purchases made after the effective date of the change.
+
+## 10. CONTACT INFORMATION
+
+If you have any questions about this Refund Policy or need assistance with a refund, please contact us at:
+
+Servly (Pty) Ltd
+[Address]
+Cape Town, South Africa
+Email: [billing email address]
+Phone: [phone number]
+
+## 11. ADDITIONAL PROVISIONS FOR SPECIFIC JURISDICTIONS
+
+### 11.1 United States
+For customers in the United States, state laws may provide additional refund rights beyond what is stated in this policy. If you are a resident of a state with more favorable consumer protection laws, those laws will apply to your purchase.
+
+### 11.2 Australia and New Zealand
+For customers in Australia and New Zealand, our goods and services come with guarantees that cannot be excluded under the Australian Consumer Law and the New Zealand Consumer Guarantees Act. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage.
+
+### 11.3 United Kingdom
+For customers in the United Kingdom, this Refund Policy complies with the Consumer Rights Act 2015. You have the right to cancel your subscription within 14 days from the day of purchase. If you have started using the Service during this period, you may be charged for the services used up to the point of cancellation.

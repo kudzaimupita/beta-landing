@@ -8,6 +8,7 @@ import SignupForm from "../components/signUpForm";
 import SocialLinks from "../components/socialLinks";
 import axios from "axios";
 import { message } from "antd";
+import { Link } from "react-router-dom";
 
 const ComingSoonPage = () => {
   const [formData, setFormData] = useState({ name: "", email: "" });
@@ -112,12 +113,23 @@ const ComingSoonPage = () => {
             <SocialLinks />
           </div>
         )}
+
+        {/* extra */}
+        <div className="flex gap-2 mt-4 z-10 flex w-full max-w-xs flex-row items-center justify-center rounded-3xl p-1 px-8">
+          <Link to="/legal/terms" className="hover:text-blue-500 transition-colors text-xs">Terms</Link>•
+          <Link to="/legal/privacy" className="hover:text-blue-500 transition-colors text-xs">Privacy</Link>•
+          <Link to="/legal/pricing" className="hover:text-blue-500 transition-colors text-xs">Pricing</Link>•
+          <Link to="/legal/refund" className="hover:text-blue-500 transition-colors text-xs">Refunds</Link>
+        </div>
       </div>
+
+
 
       {/* 3D model container */}
       <div className="h-[100vh] w-[100vw]">
         <ParticleAttractorSystem isSubmitting={isSubmitting} />
       </div>
+
 
       {/* Custom style */}
       <style>

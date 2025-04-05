@@ -1,0 +1,210 @@
+**Last Updated: April 3, 2025**
+
+## 1. INTRODUCTION
+
+These Terms of Use ("Terms") constitute a legally binding agreement between you (whether an individual or entity) and Servly (Pty) Ltd, a company registered in the Republic of South Africa with its principal place of business at [Address], Cape Town, South Africa ("Servly," "we," "us," or "our").
+
+These Terms govern your access to and use of Servly's web building platform, including any associated applications, tools, features, and services (collectively, the "Service"). By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to all of these Terms, you may not access or use the Service.
+
+## 2. ELIGIBILITY
+
+To use the Service, you must be at least 18 years old and have the legal capacity to enter into a binding contract. If you are accessing or using the Service on behalf of a company, organization, or other entity, you represent and warrant that you have the authority to bind such entity to these Terms, and "you" refers to both you individually and such entity.
+
+## 3. ACCOUNT REGISTRATION
+
+### 3.1 Registration Process
+To access certain features of the Service, you may need to register for an account. During registration, you must provide accurate, current, and complete information. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+
+### 3.2 Account Security
+You agree to:
+- Keep your password secure and confidential;
+- Notify Servly immediately of any unauthorized use of your account or any other breach of security;
+- Accept responsibility for all activities that occur under your account; and
+- Log out from your account at the end of each session.
+
+## 4. SERVICE DESCRIPTION
+
+### 4.1 Web Building Platform
+Servly provides a web building platform that combines React development techniques with a Figma-like design approach, allowing users to create, design, and deploy websites and web applications.
+
+### 4.2 Service Limitations
+The Service is provided on an "as is" and "as available" basis. We do not guarantee that the Service will be uninterrupted, error-free, or completely secure. We reserve the right to modify, suspend, or discontinue the Service or any part thereof at any time, with or without notice.
+
+## 5. USER OBLIGATIONS
+
+### 5.1 Compliance with Laws
+You agree to use the Service in compliance with all applicable laws, regulations, and these Terms.
+
+### 5.2 Prohibited Conduct
+You agree not to:
+- Use the Service for any illegal purpose or to violate any laws;
+- Post, upload, or distribute any content that is unlawful, defamatory, harassing, abusive, fraudulent, infringing, or otherwise objectionable;
+- Transmit any viruses, malware, or other harmful code;
+- Interfere with or disrupt the integrity or performance of the Service;
+- Attempt to gain unauthorized access to the Service or related systems or networks;
+- Use any robot, spider, or other automated device to access the Service except for search engines and public archives;
+- Impersonate any person or entity or misrepresent your affiliation with a person or entity;
+- Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Service except to the extent that such activity is expressly permitted by applicable law; or
+- Resell, lease, lend, transfer, distribute, or sublicense the Service without our express written consent.
+
+## 6. CONTENT
+
+### 6.1 User Content
+You retain all ownership rights in any content you create, upload, post, or otherwise make available through the Service ("User Content"). By posting User Content, you grant Servly a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, adapt, publish, translate, and distribute your User Content in connection with providing and operating the Service.
+
+### 6.2 Content Responsibility
+You are solely responsible for your User Content and the consequences of posting or publishing it. You represent and warrant that:
+- You own or have the necessary rights to use and authorize us to use your User Content;
+- Your User Content does not violate any third party's intellectual property rights, privacy rights, publicity rights, or other rights; and
+- Your User Content complies with these Terms and all applicable laws.
+
+### 6.3 Content Monitoring
+Servly does not control or monitor User Content and does not guarantee the accuracy, integrity, or quality of such content. However, we reserve the right to review, remove, or modify any User Content in our sole discretion.
+
+## 7. INTELLECTUAL PROPERTY
+
+### 7.1 Servly's Intellectual Property
+The Service, including all of its content, features, and functionality, is owned by Servly or its licensors and is protected by South African and international intellectual property laws. These Terms do not grant you any right, title, or interest in the Service, including our trademarks, logos, or other intellectual property.
+
+### 7.2 Feedback
+If you provide us with any feedback or suggestions regarding the Service ("Feedback"), you grant us an unlimited, irrevocable, perpetual, sublicensable, transferable, royalty-free license to use such Feedback for any purpose, including to improve and enhance the Service.
+
+## 8. THIRD-PARTY SERVICES AND CONTENT
+
+The Service may contain links to third-party websites, services, or content that are not owned or controlled by Servly. We do not endorse or assume responsibility for any third-party websites, services, or content. Your use of third-party services is subject to their terms of use and privacy policies.
+
+## 9. PAYMENT TERMS
+
+### 9.1 Fees
+You agree to pay all fees specified for the Service plan you select. All fees are in [currency] and are non-refundable except as expressly provided in these Terms or as required by applicable law.
+
+### 9.2 Billing
+We will bill you on a recurring basis depending on the payment plan you select (e.g., monthly or annually). You authorize us to charge your designated payment method for all fees due.
+
+### 9.3 Taxes
+All fees are exclusive of taxes, which we will charge as applicable. You are responsible for paying all taxes associated with your use of the Service.
+
+## 10. TERMINATION
+
+### 10.1 Termination by You
+You may terminate your account at any time by following the instructions on the Service or by contacting us at [support email address].
+
+### 10.2 Termination by Servly
+We may terminate or suspend your account and access to the Service at any time, with or without cause, and with or without notice. Causes for termination may include, but are not limited to:
+- Violations of these Terms;
+- Requests by law enforcement or other government agencies;
+- Extended periods of inactivity;
+- Unexpected technical or security issues; or
+- Nonpayment of any fees owed by you.
+
+### 10.3 Effect of Termination
+Upon termination, your right to access and use the Service will immediately cease. We may delete or archive your account and User Content at our discretion. Provisions of these Terms that by their nature should survive termination shall survive, including without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+
+## 11. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. SERVLY EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+SERVLY DOES NOT WARRANT THAT THE SERVICE WILL MEET YOUR REQUIREMENTS, THAT THE SERVICE WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE, OR THAT ANY DEFECTS WILL BE CORRECTED.
+
+## 12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SERVLY, ITS DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO YOUR USE OF OR INABILITY TO USE THE SERVICE.
+
+IN NO EVENT SHALL SERVLY'S TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE SERVICE OR THESE TERMS EXCEED THE AMOUNT PAID BY YOU TO SERVLY DURING THE 12 MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO SUCH LIABILITY.
+
+THE LIMITATIONS OF LIABILITY IN THIS SECTION APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF SERVLY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+
+## 13. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless Servly, its directors, officers, employees, agents, and affiliates from and against all claims, damages, obligations, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from:
+- Your use of the Service;
+- Your User Content;
+- Your violation of these Terms; or
+- Your violation of any third-party rights, including without limitation any intellectual property rights or privacy rights.
+
+## 14. GOVERNING LAW AND DISPUTE RESOLUTION
+
+### 14.1 Governing Law
+These Terms shall be governed by and construed in accordance with the laws of the Republic of South Africa, without regard to its conflict of law principles.
+
+### 14.2 Dispute Resolution
+Any dispute arising out of or relating to these Terms or the Service shall be resolved as follows:
+
+a) **Informal Resolution**: We encourage you to contact us at [support email address] to seek an informal resolution for any disputes.
+
+b) **Arbitration**: If a dispute cannot be resolved informally, it shall be finally settled by arbitration under the rules of the Arbitration Foundation of Southern Africa by one or more arbitrators appointed in accordance with said rules. The arbitration shall take place in Cape Town, South Africa, and shall be conducted in English.
+
+c) **Exceptions**: Nothing in this section shall prevent either party from seeking injunctive or other equitable relief from the courts for matters related to data security, intellectual property, or unauthorized access to the Service.
+
+### 14.3 Class Action Waiver
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, YOU AND SERVLY AGREE THAT EACH PARTY MAY BRING DISPUTES AGAINST THE OTHER PARTY ONLY IN AN INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+
+## 15. CHANGES TO TERMS
+
+We may update these Terms from time to time by posting a revised version on the Service. The revised Terms will become effective upon posting. By continuing to use the Service after the effective date of any changes, you agree to be bound by the revised Terms.
+
+If we make material changes to these Terms, we will provide you with reasonable notice, such as by email to the email address associated with your account or by a prominent notice on the Service.
+
+## 16. GENERAL PROVISIONS
+
+### 16.1 Entire Agreement
+These Terms, together with any additional terms or policies referenced herein, constitute the entire agreement between you and Servly regarding the Service.
+
+### 16.2 Severability
+If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect.
+
+### 16.3 No Waiver
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of such right or provision.
+
+### 16.4 Assignment
+You may not assign or transfer these Terms or your rights and obligations hereunder without our prior written consent. Servly may assign these Terms without your consent to a subsidiary or affiliate, or in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
+
+### 16.5 Force Majeure
+We shall not be liable for any failure to perform our obligations hereunder where such failure results from any cause beyond our reasonable control, including, without limitation, natural disasters, pandemics, civil or military disruption, or any other event that is beyond our reasonable control.
+
+### 16.6 Contact Information
+If you have any questions about these Terms, please contact us at:
+
+Servly (Pty) Ltd
+[Address]
+Cape Town, South Africa
+Email: [contact email address]
+Phone: [phone number]
+
+## 17. FOR USERS IN THE EUROPEAN UNION
+
+If you are located in the European Union, the following additional terms apply:
+
+### 17.1 Right of Withdrawal
+You have the right to withdraw from these Terms within 14 days without giving any reason. The withdrawal period will expire after 14 days from the day of the conclusion of the contract. To exercise the right of withdrawal, you must inform us of your decision to withdraw from these Terms by an unequivocal statement. To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+### 17.2 GDPR Compliance
+We process your personal data in accordance with the General Data Protection Regulation (GDPR). Please refer to our Privacy Policy for more information.
+
+## 18. FOR USERS IN SOUTH AFRICA
+
+If you are located in South Africa, the following additional terms apply:
+
+### 18.1 Consumer Protection Act
+Nothing in these Terms will exclude or limit your rights under the Consumer Protection Act, 2008 (CPA). If any provision of these Terms conflicts with your rights under the CPA, the CPA will prevail.
+
+### 18.2 Electronic Communications and Transactions Act
+You have rights under the Electronic Communications and Transactions Act, 2002 (ECTA), including the right to:
+- Cancel your subscription to the Service without reason or penalty within 7 days after the date of conclusion of these Terms, unless you have already begun to use the Service;
+- Request records of your electronic transactions with us; and
+- Lodge complaints with relevant authorities regarding the Service.
+
+### 18.3 POPIA Compliance
+We process your personal information in accordance with the Protection of Personal Information Act, 2013 (POPIA). Please refer to our Privacy Policy for more information.
+
+## 19. FOR USERS IN THE UNITED STATES
+
+If you are located in the United States, the following additional terms apply:
+
+### 19.1 DMCA Compliance
+If you believe that any content on the Service infringes your copyright, please notify us by following the procedure set forth in our Copyright Policy, which is incorporated by reference into these Terms.
+
+### 19.2 State-Specific Laws
+Residents of certain states may have additional rights under state laws. Nothing in these Terms will be deemed to limit any such rights that cannot be waived under the laws of your state of residence.

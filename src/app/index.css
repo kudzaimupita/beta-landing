@@ -44,3 +44,58 @@
   /* font-weight: 800;
   font-style: normal; */
 }
+
+
+/* :::::: Legal Styling ::::::: */
+
+.legal-document h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: #2d3748;
+}
+
+.legal-document h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.75rem;
+  color: #2d3748;
+}
+
+.legal-document h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: #2d3748;
+}
+
+.legal-document p {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+
+.legal-document ul {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.legal-document li {
+  margin-bottom: 0.25rem;
+}
+
+@media (max-width: 768px) {
+  .legal-document h1 {
+    font-size: 1.5rem;
+  }
+  
+  .legal-document h2 {
+    font-size: 1.25rem;
+  }
+  
+  .legal-document h3 {
+    font-size: 1.125rem;
+  }
+}

@@ -1,0 +1,249 @@
+**Last Updated: April 3, 2025**
+
+## 1. INTRODUCTION
+
+This Pricing Policy outlines the pricing structure, payment terms, and related policies for Servly's web building platform that combines React development techniques with a Figma-like design approach. By subscribing to or using any of Servly's paid services, you agree to the terms of this Pricing Policy.
+
+## 2. SUBSCRIPTION PLANS
+
+Servly offers the following subscription plans, designed to meet the needs of different users:
+
+### 2.1 Basic Plan
+**Price**: $19.99 per month or $199.90 per year (save 16%)
+
+**Features**:
+- Single user account
+- Up to 3 projects
+- 5GB storage
+- Basic React components library
+- Standard templates
+- Community support
+- Basic analytics
+- Custom domain connection
+
+### 2.2 Professional Plan
+**Price**: $49.99 per month or $499.90 per year (save 16%)
+
+**Features**:
+- Up to 3 user accounts
+- Up to 10 projects
+- 20GB storage
+- Advanced React components library
+- Premium templates
+- Email support with 24-hour response time
+- Advanced analytics
+- Custom domain connection
+- Export code functionality
+- Collaboration tools
+- API access
+- Remove Servly branding
+
+### 2.3 Business Plan
+**Price**: $99.99 per month or $999.90 per year (save 16%)
+
+**Features**:
+- Up to 10 user accounts
+- Unlimited projects
+- 50GB storage
+- Full React components library
+- All templates
+- Priority email support with 8-hour response time
+- Phone support during business hours
+- Comprehensive analytics
+- Custom domain connection
+- Export code functionality
+- Advanced collaboration tools
+- API access with higher rate limits
+- Remove Servly branding
+- White-labeling options
+- Team management tools
+- User roles and permissions
+
+### 2.4 Enterprise Plan
+**Price**: Custom pricing based on needs
+
+**Features**:
+- Unlimited user accounts
+- Unlimited projects
+- Custom storage allocation
+- Full React components library with custom components
+- All templates plus custom template creation
+- Dedicated support manager
+- 24/7 priority support
+- Custom analytics and reporting
+- Multiple custom domain connections
+- Advanced code export options
+- Enterprise-grade collaboration tools
+- Custom API integration
+- Remove Servly branding
+- Complete white-labeling
+- Advanced team management
+- Customizable user roles and permissions
+- Single Sign-On (SSO) integration
+- Custom training and onboarding
+- Service Level Agreement (SLA)
+- Compliance certifications
+
+## 3. PAYMENT TERMS
+
+### 3.1 Currency
+All prices are listed in United States Dollars (USD). For users outside the United States, payments will be processed in USD and converted to your local currency by your payment provider at their current exchange rate.
+
+### 3.2 Payment Methods
+We accept the following payment methods:
+- Credit cards (Visa, MasterCard, American Express, Discover)
+- Debit cards
+- PayPal
+- Bank transfer (for Enterprise plan only)
+
+### 3.3 Billing Cycles
+- **Monthly Subscriptions**: Billed on the same day each month
+- **Annual Subscriptions**: Billed once per year on the anniversary of your subscription start date
+- **Enterprise Subscriptions**: Custom billing cycles as specified in your Enterprise agreement
+
+### 3.4 Automatic Renewal
+All subscriptions automatically renew at the end of each billing cycle unless canceled prior to the renewal date. You will receive a renewal notification email approximately 7 days before your subscription renews.
+
+### 3.5 Payment Processing
+Payments are processed securely through our payment processors. We do not store your complete credit card information on our servers. By providing your payment information, you authorize us to charge the payment method for all fees incurred by your account.
+
+### 3.6 Invoices
+Invoices are generated automatically and will be sent to your registered email address. You can also access your invoices at any time through your account dashboard.
+
+## 4. TAXES AND FEES
+
+### 4.1 Value-Added Tax (VAT) and Sales Tax
+Prices do not include VAT, sales tax, or other similar taxes. Where applicable, these taxes will be added to your bill based on the tax rates in your jurisdiction.
+
+### 4.2 South African Value-Added Tax (VAT)
+For users in South Africa, VAT at the current rate of 15% will be added to all invoices, in compliance with the South African Revenue Service (SARS) requirements.
+
+### 4.3 International Transaction Fees
+Any international transaction fees or currency conversion fees charged by your bank or payment provider are your responsibility and are not included in our subscription prices.
+
+## 5. PLAN CHANGES
+
+### 5.1 Upgrades
+You may upgrade your subscription plan at any time. When upgrading:
+- The new subscription will take effect at the end of your current billing cycle
+- No refunds will be issued for the unused portion of your current billing cycle
+- Features from your previous plan may remain available until the end of your current billing cycle
+
+### 5.3 Trial to Paid Conversion
+If you are on a free trial, you will be automatically converted to the paid plan you selected at the end of your trial period, unless you cancel before the trial ends. You will be charged the full amount of the selected plan when your trial expires.
+
+## 6. PROMOTIONAL OFFERS AND DISCOUNTS
+
+### 6.1 Promotional Pricing
+We may occasionally offer promotional pricing or discounts on our subscription plans. These promotions are subject to specific terms, including duration and eligibility requirements, which will be communicated at the time of the offer.
+
+### 6.2 Discount Codes
+Discount codes must be applied at the time of subscription or renewal and cannot be applied retroactively. Unless otherwise specified, discount codes:
+- Can only be used once per account
+- Cannot be combined with other offers
+- Have no cash value
+- May expire after a certain period
+
+### 6.3 Educational and Non-Profit Discounts
+We offer special pricing for eligible educational institutions and registered non-profit organizations. Please contact our sales team at [sales email address] with appropriate documentation to apply for these discounts.
+
+## 7. FREE TRIAL
+
+### 7.1 Trial Period
+New users may be eligible for a 14-day free trial of the Professional plan. No payment information is required to start a free trial.
+
+### 7.2 Trial Limitations
+During the free trial:
+- You will have access to most features of the Professional plan
+- Certain features may be limited or unavailable
+- Projects created during the trial will remain accessible if you subscribe to a paid plan
+
+### 7.3 Trial Expiration
+At the end of your trial period:
+- You will need to select and subscribe to a paid plan to continue using the Service
+- If you do not subscribe to a paid plan, your account will be downgraded to a limited free mode with restricted access to your projects
+
+## 8. ACCOUNT CREDITS
+
+### 8.1 Credit Balance
+Account credits may be issued as part of promotional offers, refunds, or compensation for service issues. Credits:
+- Will be automatically applied to future invoices
+- Cannot be converted to cash
+- Have no monetary value outside of Servly
+- May expire after a specified period
+
+### 8.2 Credit Usage
+Credits are applied before charging your payment method. If your credit balance covers the entire amount of your subscription fee, no charge will be made to your payment method for that billing cycle.
+
+## 9. REFUNDS AND CANCELLATIONS
+
+Please refer to our separate Refund Policy for detailed information on refunds and cancellations.
+
+## 10. PRICE CHANGES
+
+### 10.1 Subscription Rate Changes
+We reserve the right to change our subscription fees at any time. If we change the fees for your subscription, we will provide notice of the change on our website or by email at least 30 days before the change is to take effect.
+
+### 10.2 Existing Subscriptions
+Price changes will not affect existing subscriptions until the next renewal date. If you do not agree with the new prices, you may cancel your subscription before the next renewal date.
+
+## 11. PAYMENT FAILURES
+
+### 11.1 Failed Payments
+If a payment fails, we will:
+- Attempt to process the payment again within the next few days
+- Notify you by email about the failed payment
+- Provide instructions on how to update your payment information
+
+### 11.2 Account Suspension
+If we are unable to successfully process your payment after multiple attempts, your account may be suspended. During suspension:
+- Access to premium features will be restricted
+- Your data and projects will be preserved
+- You can restore full access by updating your payment information and paying any outstanding balance
+
+### 11.3 Account Reactivation
+To reactivate a suspended account:
+- Log in to your account
+- Update your payment information
+- Process the outstanding payment
+
+## 12. ENTERPRISE AGREEMENTS
+
+Enterprise agreements are subject to customized terms, which may differ from this Pricing Policy. In the event of any conflict between this Pricing Policy and the terms of an Enterprise agreement, the terms of the Enterprise agreement will prevail.
+
+## 13. INTERNATIONAL PRICING
+
+### 13.1 Regional Pricing
+While our standard pricing is in USD, we may offer regional pricing in selected countries to reflect local economic conditions. Regional pricing, if available, will be displayed when you select your country during registration.
+
+### 13.2 Currency Fluctuations
+For subscriptions paid in currencies other than USD, the subscription price may fluctuate due to changes in exchange rates. We reserve the right to adjust prices to account for significant currency fluctuations.
+
+## 14. FINANCIAL REGULATIONS
+
+### 14.1 South African Financial Regulations
+For users in South Africa, all payments and financial transactions comply with regulations set by the South African Reserve Bank (SARB) and the Financial Intelligence Centre Act (FICA).
+
+### 14.2 International Financial Regulations
+We comply with all applicable international financial regulations, including anti-money laundering laws and sanctions. We reserve the right to refuse or cancel transactions that we reasonably believe may violate applicable laws or regulations.
+
+## 15. CHANGES TO THIS POLICY
+
+We may update this Pricing Policy from time to time. If we make material changes to this policy, we will notify you by email or by posting a notice on our website prior to the effective date of the changes.
+
+## 16. CONTACT US
+
+If you have any questions about our pricing or need billing assistance, please contact our billing support team at:
+
+Servly (Pty) Ltd
+[Address]
+Cape Town, South Africa
+Email: [billing email address]
+Phone: [phone number]
+ effect immediately
+- You will be charged the prorated difference between your current plan and the new plan for the remainder of your current billing cycle
+- Your next billing date will remain the same
+
+### 5.2 Downgrades
+You may downgrade your subscription plan at any time. When downgrading:
+- The new subscription will take
