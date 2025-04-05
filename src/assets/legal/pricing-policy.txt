@@ -236,10 +236,7 @@ We may update this Pricing Policy from time to time. If we make material changes
 If you have any questions about our pricing or need billing assistance, please contact our billing support team at:
 
 Servly (Pty) Ltd
-[Address]
-Cape Town, South Africa
-Email: [billing email address]
-Phone: [phone number]
+Email: info@servly.app
  effect immediately
 - You will be charged the prorated difference between your current plan and the new plan for the remainder of your current billing cycle
 - Your next billing date will remain the same

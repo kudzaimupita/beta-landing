@@ -11,8 +11,8 @@ We value your satisfaction and strive to provide a high-quality service. However
 ### 2.1 Cancellation Process
 You may cancel your subscription at any time through one of the following methods:
 - Through your account settings on the Servly dashboard
-- By contacting our customer support team at [support email address]
-- By sending a written cancellation request to [billing email address]
+- By contacting our customer support team at info@servly.app
+- By sending a written cancellation request to info@servly.app
 
 ### 2.2 Effect of Cancellation
 When you cancel your subscription:
@@ -83,7 +83,7 @@ If you initiate a chargeback with your payment provider instead of requesting a 
 
 ### 5.1 How to Request a Refund
 To request a refund, please:
-1. Contact our customer support team at [support email address]
+1. Contact our customer support team at info@servly.app
 2. Include your account information, the date of purchase, and the reason for your refund request
 3. Provide any relevant documentation or evidence if applicable (e.g., for billing errors)
 
@@ -139,10 +139,7 @@ We may update this Refund Policy from time to time. If we make material changes 
 If you have any questions about this Refund Policy or need assistance with a refund, please contact us at:
 
 Servly (Pty) Ltd
-[Address]
-Cape Town, South Africa
-Email: [billing email address]
-Phone: [phone number]
+Email: info@servly.app
 
 ## 11. ADDITIONAL PROVISIONS FOR SPECIFIC JURISDICTIONS
 

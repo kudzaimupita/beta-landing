@@ -2,7 +2,7 @@
 
 ## 1. INTRODUCTION
 
-These Terms of Use ("Terms") constitute a legally binding agreement between you (whether an individual or entity) and Servly (Pty) Ltd, a company registered in the Republic of South Africa with its principal place of business at [Address], Cape Town, South Africa ("Servly," "we," "us," or "our").
+These Terms of Use ("Terms") constitute a legally binding agreement between you (whether an individual or entity) and Servly (Pty) Ltd, a company registered in the Republic of South Africa ("Servly," "we," "us," or "our").
 
 These Terms govern your access to and use of Servly's web building platform, including any associated applications, tools, features, and services (collectively, the "Service"). By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to all of these Terms, you may not access or use the Service.
 
@@ -168,10 +168,7 @@ We shall not be liable for any failure to perform our obligations hereunder wher
 If you have any questions about these Terms, please contact us at:
 
 Servly (Pty) Ltd
-[Address]
-Cape Town, South Africa
-Email: [contact email address]
-Phone: [phone number]
+Email: info@servly.app
 
 ## 17. FOR USERS IN THE EUROPEAN UNION
 

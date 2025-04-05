@@ -160,10 +160,7 @@ We may update this Privacy Policy from time to time. The updated version will be
 If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at:
 
 Servly (Pty) Ltd
-[Address]
-Cape Town, South Africa
-Email: [privacy email address]
-Phone: [phone number]
+Email: info@servly.app
 
 ## 14. ADDITIONAL INFORMATION FOR SPECIFIC JURISDICTIONS
 
@@ -177,9 +174,10 @@ We have appointed an Information Officer responsible for ensuring our compliance
 You have the right to submit a complaint to the Information Regulator if you believe that we have violated your privacy rights. The Information Regulator's contact details are:
 
 Information Regulator (South Africa)
-[Address]
-[Email]
-[Phone]
+🖂 JD House, 27 Stiemens Street, Braamfontein, Johannesburg
+🗺 P.O Box 31533, Braamfontein, Johannesburg, 2017
+enquiries@inforegulator.org.za
++27 10 023 5200
 
 ### 14.2 European Economic Area (EEA) and United Kingdom
 If you are a resident of the EEA or UK, the following additional information applies to you:
@@ -190,13 +188,6 @@ We process your personal information on the following legal bases:
 - **Legitimate Interests**: When processing is necessary for our legitimate interests or those of a third party, provided your fundamental rights and freedoms do not override those interests.
 - **Consent**: When you have given us specific consent to process your data for a specific purpose.
 - **Legal Obligation**: When processing is necessary for compliance with a legal obligation to which we are subject.
-
-#### Data Protection Representative
-Our representative in the EEA for data protection matters is:
-[Representative Name]
-[Representative Address]
-[Representative Email]
-[Representative Phone]
 
 ### 14.3 California, USA
 If you are a California resident, the following additional information applies to you under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA):
