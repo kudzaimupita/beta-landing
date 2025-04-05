@@ -46,8 +46,9 @@ const SignupForm = ({ formData, onChange, onSubmit, isSubmitting }) => {
                 />
             </div>
 
-            <p className='text-xs flex gap-2 wrap mb-10'>By clicking 'Save', you agree to Servly's <Link to='/legal/terms'><u>Terms</u></Link> and <Link to='/legal/beta-programme'><u>Beta Policy</u></Link></p>
-
+            <p className='text-xs mb-10'>
+                By clicking 'Save', you acknowledge and agree to be bound by Servly's <Link to='/legal/terms'><u>Terms</u></Link> and <Link to='/legal/beta-programme'><u>Beta Policy</u></Link>.
+            </p>
             {
                 isSubmitting ? (
                     <button
