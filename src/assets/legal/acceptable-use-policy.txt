@@ -164,8 +164,7 @@ Servly reserves the right to monitor the Service for compliance with this Policy
 
 ### 7.2 Reporting Violations
 If you become aware of any violation of this Policy, please report it to:
-• Email: abuse@servly.app
-• Contact form: https://servly.app/report-abuse
+• Email: info@servly.app
 • In-product reporting tools
 
 ### 7.3 Enforcement Actions
@@ -178,5 +177,5 @@ In the event of a Policy violation, Servly may take one or more of the following
 
 ### 7.4 Appeal Process
 If you believe an enforcement action was taken in error, you may appeal by:
-• Submitting a detailed explanation to support@servly.app
+• Submitting a detailed explanation to info@servly.app
 • Providing any relevant evidence or
