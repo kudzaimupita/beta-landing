@@ -108,7 +108,8 @@ export const LegalNav: FC = () => {
       <nav className="fixed top-0 z-50 w-full overflow-x-hidden rounded-none border-b border-neutral-200 bg-white/90 backdrop-blur-sm p-4 shadow-sm md:rounded-lg md:border md:border-neutral-300 md:fixed md:top-4 md:w-1/4"
         style={{ overflowX: 'hidden' }}>
         <div className="flex items-center justify-between">
-          <h2
+          <a
+            href="https://www.servly.app"
             className="flex items-center gap-2 text-lg font-medium text-neutral-700"
             style={{ fontFamily: "Helius Medium" }}
           >
@@ -120,7 +121,7 @@ export const LegalNav: FC = () => {
               <img className="h-[20px]" src={ServlyWordmark} alt="Servly" />
             </a>
             <span className="">Legal</span>
-          </h2>
+          </a>
 
           {/* Hamburger menu button (mobile only) */}
           <button
