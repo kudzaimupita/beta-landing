@@ -28,18 +28,18 @@ const App: FC = () => {
       />
       <Routes>
         {/* Redirect root to legal/terms */}
-        <Route path="/" element={<Navigate to="/legal/terms" replace />} />
+        <Route path="/" element={<Navigate to="/terms" replace />} />
 
         {/* Legal Routes */}
-        <Route path="/legal">
-          <Route index element={<Navigate to="/legal/terms" replace />} />
-          <Route path="terms" element={<TermsOfUse />} />
-          <Route path="privacy" element={<PrivacyPolicy />} />
-          <Route path="pricing" element={<PricingPolicy />} />
-          <Route path="refund" element={<RefundPolicy />} />
-          <Route path="acceptable-use" element={<AcceptableUsePolicy />} />
-          <Route path="beta-programme" element={<BetaProgrammePolicy />} />
-        </Route>
+        {/* <Route path="/legal"> */}
+        <Route index element={<Navigate to="/terms" replace />} />
+        <Route path="terms" element={<TermsOfUse />} />
+        <Route path="privacy" element={<PrivacyPolicy />} />
+        <Route path="pricing" element={<PricingPolicy />} />
+        <Route path="refund" element={<RefundPolicy />} />
+        <Route path="acceptable-use" element={<AcceptableUsePolicy />} />
+        <Route path="beta-programme" element={<BetaProgrammePolicy />} />
+        {/* </Route> */}
 
         {/* Catch-all route - redirects all 404s to legal/terms */}
         <Route path="*" element={<Navigate to="/legal/terms" replace />} />
