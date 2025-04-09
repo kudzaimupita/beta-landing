@@ -1,5 +1,6 @@
-import { FC } from "react";
 import { Link, useLocation } from "react-router-dom";
+
+import { FC } from "react";
 import ServlyIcon from "../../public/images/App Icon Black.png";
 import ServlyWordmark from "../../public/images/Wordmark Black.png";
 
@@ -32,7 +33,7 @@ export const LegalNav: FC = () => {
       >
         {/* <Logo /> */}
         <a
-          href="www.servly.app"
+          href="https://www.servly.app"
           className="flex items-center justify-center gap-2"
         >
           <img className="h-[23px] object-contain" src={ServlyIcon} alt="X" />
