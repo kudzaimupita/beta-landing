@@ -27,21 +27,22 @@ const App: FC = () => {
         alt="Texture"
       />
       <Routes>
-        {/* <Route index element={<ComingSoonPage />} /> */}
+        {/* Redirect root to legal/terms */}
+        <Route path="/" element={<Navigate to="/legal/terms" replace />} />
 
         {/* Legal Routes */}
         <Route path="/legal">
           <Route index element={<Navigate to="/legal/terms" replace />} />
+          <Route path="terms" element={<TermsOfUse />} />
+          <Route path="privacy" element={<PrivacyPolicy />} />
+          <Route path="pricing" element={<PricingPolicy />} />
+          <Route path="refund" element={<RefundPolicy />} />
+          <Route path="acceptable-use" element={<AcceptableUsePolicy />} />
+          <Route path="beta-programme" element={<BetaProgrammePolicy />} />
         </Route>
-        <Route index path="/legal/terms" element={<TermsOfUse />} />
-        <Route path="/legal/privacy" element={<PrivacyPolicy />} />
-        <Route path="/legal/pricing" element={<PricingPolicy />} />
-        <Route path="/legal/refund" element={<RefundPolicy />} />
-        <Route path="/legal/acceptable-use" element={<AcceptableUsePolicy />} />
-        <Route path="/legal/beta-programme" element={<BetaProgrammePolicy />} />
 
-        {/* Catch-all route - redirects all 404s to index */}
-        <Route path="*" element={<Navigate to="/" replace />} />
+        {/* Catch-all route - redirects all 404s to legal/terms */}
+        <Route path="*" element={<Navigate to="/legal/terms" replace />} />
       </Routes>
     </>
   );
