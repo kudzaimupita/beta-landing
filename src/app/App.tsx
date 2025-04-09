@@ -27,13 +27,13 @@ const App: FC = () => {
         alt="Texture"
       />
       <Routes>
-        <Route index element={<ComingSoonPage />} />
+        {/* <Route index element={<ComingSoonPage />} /> */}
 
         {/* Legal Routes */}
         <Route path="/legal">
           <Route index element={<Navigate to="/legal/terms" replace />} />
         </Route>
-        <Route path="/legal/terms" element={<TermsOfUse />} />
+        <Route index path="/legal/terms" element={<TermsOfUse />} />
         <Route path="/legal/privacy" element={<PrivacyPolicy />} />
         <Route path="/legal/pricing" element={<PricingPolicy />} />
         <Route path="/legal/refund" element={<RefundPolicy />} />
