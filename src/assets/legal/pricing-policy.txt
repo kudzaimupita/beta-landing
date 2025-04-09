@@ -1,4 +1,4 @@
-<div class="text-sm">Last Updated: April 6, 2025</div>
+<div class="text-sm">Last Updated: April 9, 2025</div>
 
 <hr class="mt-3" />
 
@@ -10,167 +10,136 @@ This Pricing Policy outlines the pricing structure, payment terms, and related p
 
 Servly offers the following subscription plans, designed to meet the needs of different users building responsive web applications with our React and Figma-inspired interface:
 
-### 2.1 Basic Plan
-**Price**: $24.99 per month or $249.90 per year (save 16%)
+### 2.1 Free Plan
+**Price**: $0 per month
 
 **Features**:
 • **User Management**
-  • Single user account
-  • Managed Auth (JWT)
+  • 2 user accounts
+  • Basic authentication
 • **Projects**
-  • Up to 3 projects
-• **Storage**
-  • 5GB storage
-• **DOM Inspector**
-  • Node Identifier
-• **Views**
-  • 10 Views
-• **Deployments**
-  • 5 Deployments per month
+  • 1 application
+  • 10 pages per app
+  • 10 controllers per app
 • **Components**
-  • Basic React components library
-• **Templates**
-  • Standard templates
-• **Backend**
-  • Basic controllers
-• **Database**
-  • Basic storage capabilities
+  • 20 components
+• **Storage**
+  • 0.5GB storage
+• **Deployments**
+  • 1 daily deployment
+• **Plugins & Automations**
+  • 1 plugin
+  • 1 automation
+• **Invocations**
+  • 1,000 monthly invocations
+  • 7-day log retention
 • **Support**
   • Community support
-  • Basic analytics
-• **Domains**
-  • Single custom domain connection
 
-### 2.2 Professional Plan
-**Price**: $49.99 per month or $499.90 per year (save 16%)
+### 2.2 Basic Plan
+**Price**: $39 per month or $390 per year (save 16%)
 
 **Features**:
 • **User Management**
-  • Up to 5 user accounts
-  • Managed Auth (JWT)
+  • 5 user accounts
+  • Team collaboration
 • **Projects**
-  • Up to 10 projects
-• **Storage**
-  • 100GB storage
-• **DOM Inspector**
-  • Node preview
-  • Node Identifier
-• **Views**
-  • 30 Views
-  • Pay-per-view option for additional views
-• **Deployments**
-  • 20 Deployments per month
+  • 3 applications
+  • 20 pages per app
+  • 20 controllers per app
 • **Components**
-  • Advanced React components library
-• **Templates**
-  • Premium templates
-• **Backend**
-  • Standard controllers
-• **Database**
-  • Database Studio access
-  • Standard Studio Resources
-• **Collaboration**
-  • Basic collaboration tools
-  • Export code functionality
-• **Support**
-  • Email support with 24-hour response time
-  • Advanced analytics
-• **Domains**
-  • Custom domain connection
-• **API**
-  • Standard API access
-• **Branding**
-  • Remove Servly branding
+  • 50 components
+  • Design systems
+  • Custom libraries
+• **Storage**
+  • 2GB storage
+• **Deployments**
+  • 5 daily deployments
+• **Plugins & Automations**
+  • 4 plugins
+  • 5 automations
+• **Invocations**
+  • 10,000 monthly invocations
+  • 30-day log retention
+• **API Access**
+  • Standard API integration
+• **Task Manager**
+  • Basic task management
 
-### 2.3 Business Plan
-**Price**: $149.99 per month or $1,499.90 per year (save 16%)
+### 2.3 Professional Plan
+**Price**: $149 per month or $1,490 per year (save 16%)
 
 **Features**:
 • **User Management**
-  • Up to 20 user accounts
-  • Managed Auth (JWT)
-  • Team management tools
-  • User roles and permissions
+  • 10 user accounts
+  • Advanced team collaboration
 • **Projects**
-  • Unlimited projects
-• **Storage**
-  • 500GB storage
-• **DOM Inspector**
-  • Node preview
-  • Node Identifier
-• **Views**
-  • Unlimited Views
-• **Deployments**
-  • Unlimited Deployments
+  • 6 applications
+  • 25 pages per app
+  • 50 controllers per app
 • **Components**
-  • Full React components library
-• **Templates**
-  • All templates
-• **Backend**
-  • Advanced controllers
-• **Database**
-  • Full Database Studio access
-  • Extended Studio Resources
-• **Collaboration**
-  • Advanced collaboration tools
-  • Export code functionality
+  • 100 components
+  • 75 HTML templates
+  • Design systems
+  • Custom libraries
+  • Custom components
+• **Storage**
+  • 10GB storage
+• **Deployments**
+  • 10 daily deployments
+• **Plugins & Automations**
+  • 10 plugins
+  • 20 automations
+• **Invocations**
+  • 100,000 monthly invocations
+  • 90-day log retention
 • **Support**
-  • Priority email support with 8-hour response time
-  • Phone support during business hours
-  • Comprehensive analytics
-• **Domains**
-  • Multiple custom domain connections
-• **API**
-  • API access with higher rate limits
-• **Branding**
-  • White-labeling options
+  • Priority support
+• **Security & Backup**
+  • Automated backups
+• **API Access**
+  • Enhanced API integration
+• **Additional Features**
+  • Custom domain
+  • White labeling
+  • Data export
 
-### 2.4 Enterprise Plan
-**Price**: Custom pricing based on needs
+### 2.4 Business Plan
+**Price**: $299 per month or $2,990 per year (save 16%)
 
 **Features**:
 • **User Management**
-  • Unlimited user accounts
-  • Managed Auth (JWT)
-  • Advanced team management
-  • Customizable user roles and permissions
-  • Single Sign-On (SSO) integration
+  • 50 user accounts
+  • Enterprise team collaboration
 • **Projects**
-  • Unlimited projects
-• **Storage**
-  • Custom storage allocation
-• **DOM Inspector**
-  • Full capabilities
-• **Views**
-  • Unlimited Views
-• **Deployments**
-  • Unlimited Deployments with priority
+  • 30 applications
+  • 50 pages per app
+  • 100 controllers per app
 • **Components**
-  • Full React components library with custom components
-• **Templates**
-  • All templates plus custom template creation
-• **Backend**
-  • Custom controllers
-• **Database**
-  • Premium Database Studio access
-  • Unlimited Studio Resources
-• **Collaboration**
-  • Enterprise-grade collaboration tools
-  • Advanced code export options
+  • 250 components
+  • Design systems
+  • Custom libraries
+• **Storage**
+  • 50GB storage
+• **Deployments**
+  • 25 daily deployments
+• **Plugins & Automations**
+  • 20 plugins
+  • 50 automations
+• **Invocations**
+  • 250,000 monthly invocations
+  • 365-day log retention
 • **Support**
-  • Dedicated support manager
-  • 24/7 priority support
-  • Custom analytics and reporting
-  • Custom training and onboarding
-  • Service Level Agreement (SLA)
-• **Domains**
-  • Multiple custom domain connections
-• **API**
-  • Custom API integration
-• **Branding**
-  • Complete white-labeling
-• **Compliance**
-  • Compliance certifications
+  • Priority support with SLA
+• **Security & Backup**
+  • Automated backups
+  • Advanced security features
+• **API Access**
+  • Full API integration
+• **Additional Features**
+  • Custom domain
+  • White labeling
+  • Data export
 
 ## 3. PAYMENT TERMS
 
@@ -182,12 +151,12 @@ We accept the following payment methods:
 • Credit cards (Visa, MasterCard, American Express, Discover)
 • Debit cards
 • PayPal
-• Bank transfer (for Enterprise plan only)
+• Bank transfer (for Business plan only)
 
 ### 3.3 Billing Cycles
 • **Monthly Subscriptions**: Billed on the same day each month
 • **Annual Subscriptions**: Billed once per year on the anniversary of your subscription start date
-• **Enterprise Subscriptions**: Custom billing cycles as specified in your Enterprise agreement
+• **Business Subscriptions**: Custom billing cycles may be available upon request
 
 ### 3.4 Automatic Renewal
 All subscriptions automatically renew at the end of each billing cycle unless canceled prior to the renewal date. You will receive a renewal notification email approximately 7 days before your subscription renews.
@@ -257,7 +226,7 @@ During the free trial:
 ### 7.3 Trial Expiration
 At the end of your trial period:
 • You will need to select and subscribe to a paid plan to continue using the Service
-• If you do not subscribe to a paid plan, your account will be downgraded to a limited free mode with restricted access to your projects
+• If you do not subscribe to a paid plan, your account will be downgraded to the Free plan with restricted access to your projects
 
 ## 8. ACCOUNT CREDITS
 
@@ -303,9 +272,9 @@ To reactivate a suspended account:
 • Update your payment information
 • Process the outstanding payment
 
-## 12. ENTERPRISE AGREEMENTS
+## 12. BUSINESS AGREEMENTS
 
-Enterprise agreements are subject to customized terms, which may differ from this Pricing Policy. In the event of any conflict between this Pricing Policy and the terms of an Enterprise agreement, the terms of the Enterprise agreement will prevail.
+Business agreements are subject to customized terms, which may differ from this Pricing Policy. In the event of any conflict between this Pricing Policy and the terms of a Business agreement, the terms of the Business agreement will prevail.
 
 ## 13. INTERNATIONAL PRICING
 
@@ -323,21 +292,26 @@ For users in South Africa, all payments and financial transactions comply with r
 ### 14.2 International Financial Regulations
 We comply with all applicable international financial regulations, including anti-money laundering laws and sanctions. We reserve the right to refuse or cancel transactions that we reasonably believe may violate applicable laws or regulations.
 
-## 15. PAY-PER-USE FEATURES
+## 15. RESOURCE LIMITS AND OVERAGES
 
-### 15.1 Additional Views
-Professional Plan subscribers who exceed their 30 included views can purchase additional views at the following rates:
-• $0.50 per additional view
-• Bundle of 10 additional views: $4.50 (10% savings)
-• Bundle of 50 additional views: $20.00 (20% savings)
+### 15.1 Resource Limitations
+Each plan has specific resource limitations as outlined in Section 2. These limitations include:
+• Number of user accounts
+• Number of applications
+• Pages per application
+• Components and templates
+• Storage capacity
+• Daily deployments
+• Monthly invocations
+• Automations and plugins
 
-### 15.2 Additional Deployments
-Basic and Professional Plan subscribers who exceed their monthly deployment limits can purchase additional deployments:
-• Basic Plan: $2.00 per additional deployment
-• Professional Plan: $1.50 per additional deployment
+### 15.2 Resource Monitoring
+You can monitor your resource usage through your account dashboard. We will notify you when you approach 80% of your plan's limits.
 
-### 15.3 Billing for Pay-Per-Use Features
-Charges for pay-per-use features will be billed at the end of your billing cycle along with your subscription fee. Usage metrics are calculated based on your usage during that billing cycle.
+### 15.3 Overage Handling
+If you exceed your plan's resource limits:
+• For Free Plan users: Functionality may be limited until usage is reduced or you upgrade to a paid plan
+• For Paid Plan users: You will be notified and may be billed for excess usage according to our overage rates, or you may choose to upgrade to a higher tier plan
 
 ## 16. CHANGES TO THIS POLICY
 
