@@ -42,7 +42,7 @@ const App: FC = () => {
         {/* </Route> */}
 
         {/* Catch-all route - redirects all 404s to legal/terms */}
-        <Route path="*" element={<Navigate to="/legal/terms" replace />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </>
   );
