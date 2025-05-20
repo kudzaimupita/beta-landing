@@ -78,7 +78,7 @@ The Service may contain links to third-party websites, services, or content that
 ## 9. PAYMENT TERMS
 
 ### 9.1 Fees
-You agree to pay all fees specified for the Service plan you select. All fees are in [currency] and are non-refundable except as expressly provided in these Terms or as required by applicable law.
+You agree to pay all fees specified for the Service plan you select. All fees are in United States Dollars (USD) and are non-refundable except as expressly provided in these Terms or as required by applicable law.
 
 ### 9.2 Billing
 We will bill you on a recurring basis depending on the payment plan you select (e.g., monthly or annually). You authorize us to charge your designated payment method for all fees due.
