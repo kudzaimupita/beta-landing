@@ -1,4 +1,4 @@
-<div class="text-sm">Last Updated: April 9, 2025</div>
+<div class="text-sm">Last Updated: September 24, 2025</div>
 
 <hr class="mt-3" />
 
@@ -8,318 +8,444 @@ This Pricing Policy outlines the pricing structure, payment terms, and related p
 
 ## 2. SUBSCRIPTION PLANS
 
-Servly offers the following subscription plans, designed to meet the needs of different users building responsive web applications with our React and Figma-inspired interface:
+Servly offers flexible subscription plans designed for developers and teams building responsive web applications with our React and Figma-inspired interface. All plans include unlimited draft application creation in your workspace - deployment limits apply only to actively deployed applications.
 
 ### 2.1 Free Plan
 **Price**: $0 per month
 
+**Core Resources**:
+• **Deployed Applications**: 3
+• **Total Deployed Views**: Unlimited
+• **Total Controllers**: 15 across all deployed apps
+• **Team Members**: 3
+• **Resources/Plugins**: 5
+• **Modules/Components**: Unlimited
+
+**Monthly Usage Limits**:
+• **Deployments**: 30 per month
+• **API Invocations**: 10,000 per month
+• **Storage**: 1GB
+• **AI Tokens**: Limited AI credits
+
+**Per Deployed Application**:
+• **Views per App**: Unlimited
+• **Controllers per App**: 8
+• **Custom Domains**: 1 per app
+• **Marketplace Publications**: Available (manual approval required for new accounts without Servly Free Creator badge)
+
 **Features**:
-• **User Management**
-  • 2 user accounts
-  • Basic authentication
-• **Projects**
-  • 1 application
-  • 10 pages per app
-  • 10 controllers per app
-• **Components**
-  • 20 components
-• **Storage**
-  • 0.5GB storage
-• **Deployments**
-  • 1 daily deployment
-• **Plugins & Automations**
-  • 1 plugin
-  • 1 automation
-• **Invocations**
-  • 1,000 monthly invocations
-  • 7-day log retention
-• **Support**
-  • Community support
+• Unlimited draft app creation in workspace
+• Unlimited view creation
+• Basic Analytics
+• Community Support
+• API Access
 
 ### 2.2 Basic Plan
-**Price**: $39 per month or $390 per year (save 16%)
+**Price**: $19 per month or $190 per year (2 months free)
+
+**Core Resources**:
+• **Deployed Applications**: 5
+• **Total Deployed Views**: Unlimited
+• **Total Controllers**: 75 across all deployed apps
+• **Team Members**: 10
+• **Resources/Plugins**: 20
+• **Modules/Components**: Unlimited
+
+**Monthly Usage Limits**:
+• **Deployments**: 100 per month
+• **API Invocations**: 50,000 per month
+• **Storage**: 5GB
+• **AI Tokens**: 1,000,000 tokens per month
+
+**Per Deployed Application**:
+• **Views per App**: Unlimited
+• **Controllers per App**: 20
+• **Custom Domains**: 3 per app
+• **Marketplace Publications**: Unlimited
 
 **Features**:
-• **User Management**
-  • 5 user accounts
-  • Team collaboration
-• **Projects**
-  • 3 applications
-  • 20 pages per app
-  • 20 controllers per app
-• **Components**
-  • 50 components
-  • Design systems
-  • Custom libraries
-• **Storage**
-  • 2GB storage
-• **Deployments**
-  • 5 daily deployments
-• **Plugins & Automations**
-  • 4 plugins
-  • 5 automations
-• **Invocations**
-  • 10,000 monthly invocations
-  • 30-day log retention
-• **API Access**
-  • Standard API integration
-• **Task Manager**
-  • Basic task management
+• Everything in Free Plan, plus:
+• SSL Certificates
+• Automated Backups
+• Email Support
+• Custom Domains
 
-### 2.3 Professional Plan
-**Price**: $149 per month or $1,490 per year (save 16%)
+### 2.3 Pro Plan
+**Price**: $199 per month or $1,990 per year (2 months free)
+
+**Core Resources**:
+• **Deployed Applications**: 15
+• **Total Deployed Views**: Unlimited
+• **Total Controllers**: 300 across all deployed apps
+• **Team Members**: 25
+• **Resources/Plugins**: 75
+• **Modules/Components**: Unlimited
+
+**Monthly Usage Limits**:
+• **Deployments**: 500 per month
+• **API Invocations**: 250,000 per month
+• **Storage**: 25GB
+• **AI Tokens**: 1,000,000 tokens per month
+
+**Per Deployed Application**:
+• **Views per App**: Unlimited
+• **Controllers per App**: 75
+• **Custom Domains**: Unlimited
+• **Marketplace Publications**: Unlimited
 
 **Features**:
-• **User Management**
-  • 10 user accounts
-  • Advanced team collaboration
-• **Projects**
-  • 6 applications
-  • 25 pages per app
-  • 50 controllers per app
-• **Components**
-  • 100 components
-  • 75 HTML templates
-  • Design systems
-  • Custom libraries
-  • Custom components
-• **Storage**
-  • 10GB storage
-• **Deployments**
-  • 10 daily deployments
-• **Plugins & Automations**
-  • 10 plugins
-  • 20 automations
-• **Invocations**
-  • 100,000 monthly invocations
-  • 90-day log retention
-• **Support**
-  • Priority support
-• **Security & Backup**
-  • Automated backups
-• **API Access**
-  • Enhanced API integration
-• **Additional Features**
-  • Custom domain
-  • White labeling
-  • Data export
+• Everything in Basic Plan, plus:
+• Priority Support
+• Advanced Analytics
+• Role-Based Access Control (RBAC)
+• Multiple Custom Domains per App
 
 ### 2.4 Business Plan
-**Price**: $299 per month or $2,990 per year (save 16%)
+**Price**: $599 per month or $5,990 per year (2 months free)
+
+**Core Resources**:
+• **Deployed Applications**: 50
+• **Total Deployed Views**: Unlimited
+• **Total Controllers**: 1,500 across all deployed apps
+• **Team Members**: 100
+• **Resources/Plugins**: 300
+• **Modules/Components**: Unlimited
+
+**Monthly Usage Limits**:
+• **Deployments**: 2,000 per month
+• **API Invocations**: 1,000,000 per month
+• **Storage**: 100GB
+• **AI Tokens**: 1,000,000 tokens per month
+
+**Per Deployed Application**:
+• **Views per App**: Unlimited
+• **Controllers per App**: 300
+• **Custom Domains**: Unlimited
+• **Marketplace Publications**: Unlimited
 
 **Features**:
-• **User Management**
-  • 50 user accounts
-  • Enterprise team collaboration
-• **Projects**
-  • 30 applications
-  • 50 pages per app
-  • 100 controllers per app
-• **Components**
-  • 250 components
-  • Design systems
-  • Custom libraries
-• **Storage**
-  • 50GB storage
-• **Deployments**
-  • 25 daily deployments
-• **Plugins & Automations**
-  • 20 plugins
-  • 50 automations
-• **Invocations**
-  • 250,000 monthly invocations
-  • 365-day log retention
-• **Support**
-  • Priority support with SLA
-• **Security & Backup**
-  • Automated backups
-  • Advanced security features
-• **API Access**
-  • Full API integration
-• **Additional Features**
-  • Custom domain
-  • White labeling
-  • Data export
+• Everything in Pro Plan, plus:
+• SSO Integration
+• Audit Logs
+• White Label Branding
+• SLA Guarantee
+• Phone Support
+• Video Call Support
 
-## 3. PAYMENT TERMS
+### 2.5 Enterprise Plan
+**Price**: Custom pricing based on requirements
 
-### 3.1 Currency
+**Core Resources**:
+• **Deployed Applications**: Unlimited
+• **Total Deployed Views**: Unlimited
+• **Total Controllers**: Unlimited
+• **Team Members**: Unlimited
+• **Resources/Plugins**: Unlimited
+• **Modules/Components**: Unlimited
+
+**Monthly Usage Limits**:
+• **Deployments**: Unlimited
+• **API Invocations**: Custom allocation
+• **Storage**: Custom allocation
+• **AI Tokens**: Custom allocation
+
+**Per Deployed Application**:
+• **All limits**: Unlimited
+
+**Features**:
+• Everything in Business Plan, plus:
+• Dedicated Support Representative
+• Custom Integrations
+• On-premise Deployment Options
+• Custom Contract Terms
+• Training & Onboarding
+• 4-hour Response Time SLA
+• 24/7 Premium Support
+
+## 3. UNDERSTANDING LIMITS
+
+### 3.1 Application Limits
+• **Creation**: Create unlimited draft applications in your workspace on all plans
+• **Deployment**: Plan limits apply only to actively deployed applications
+• **Flexibility**: Swap deployed apps anytime by undeploying some and deploying others
+
+### 3.2 View Limits
+• **Development**: Create unlimited views while building
+• **Deployment**: Unlimited views across all deployed applications on all plans
+
+### 3.3 Deployment Swapping
+• **Quick swap**: Undeploy App A → Deploy App B (takes ~2 minutes)
+• **No data loss**: Undeploying preserves all app data and configuration
+• **Instant redeployment**: Previously deployed apps can be redeployed anytime
+
+## 4. PAYMENT TERMS
+
+### 4.1 Currency
 All prices are listed in United States Dollars (USD). For users outside the United States, payments will be processed in USD and converted to your local currency by your payment provider at their current exchange rate.
 
-### 3.2 Payment Methods
+### 4.2 Payment Methods
 We accept the following payment methods:
-• Credit cards (Visa, MasterCard, American Express, Discover)
-• Debit cards
+• Credit/Debit Cards (Visa, MasterCard, American Express)
 • PayPal
-• Bank transfer (for Business plan only)
+• Bank Transfer (Business and Enterprise plans only)
+• Purchase Orders (Enterprise only)
 
-### 3.3 Billing Cycles
+### 4.3 Billing Cycles
 • **Monthly Subscriptions**: Billed on the same day each month
-• **Annual Subscriptions**: Billed once per year on the anniversary of your subscription start date
-• **Business Subscriptions**: Custom billing cycles may be available upon request
+• **Annual Subscriptions**: Billed once per year with 2 months free (pay for 10 months)
+• **Enterprise Subscriptions**: Custom billing cycles available
 
-### 3.4 Automatic Renewal
+### 4.4 Automatic Renewal
 All subscriptions automatically renew at the end of each billing cycle unless canceled prior to the renewal date. You will receive a renewal notification email approximately 7 days before your subscription renews.
 
-### 3.5 Payment Processing
+### 4.5 Payment Processing
 Payments are processed securely through our payment processors. We do not store your complete credit card information on our servers. By providing your payment information, you authorize us to charge the payment method for all fees incurred by your account.
 
-### 3.6 Invoices
+### 4.6 Invoices
 Invoices are generated automatically and will be sent to your registered email address. You can also access your invoices at any time through your account dashboard.
 
-## 4. TAXES AND FEES
+## 5. TAXES AND FEES
 
-### 4.1 Value-Added Tax (VAT) and Sales Tax
+### 5.1 Value-Added Tax (VAT) and Sales Tax
 Prices do not include VAT, sales tax, or other similar taxes. Where applicable, these taxes will be added to your bill based on the tax rates in your jurisdiction.
 
-### 4.2 South African Value-Added Tax (VAT)
+### 5.2 South African Value-Added Tax (VAT)
 For users in South Africa, VAT at the current rate of 15% will be added to all invoices, in compliance with the South African Revenue Service (SARS) requirements.
 
-### 4.3 International Transaction Fees
+### 5.3 International Transaction Fees
 Any international transaction fees or currency conversion fees charged by your bank or payment provider are your responsibility and are not included in our subscription prices.
 
-## 5. PLAN CHANGES
+## 6. PLAN CHANGES
 
-### 5.1 Upgrades
+### 6.1 Upgrades
 You may upgrade your subscription plan at any time. When upgrading:
-• The new subscription will take effect immediately
-• You will be charged the prorated difference between your current plan and the new plan for the remainder of your current billing cycle
-• Your next billing date will remain the same
+• The new subscription will take effect immediately with prorated billing
+• You will be charged the prorated difference for the remainder of your current billing cycle
+• Feature access within 5 minutes
+• More apps can be deployed immediately
 
-### 5.2 Downgrades
+### 6.2 Downgrades
 You may downgrade your subscription plan at any time. When downgrading:
 • The new subscription will take effect at the end of your current billing cycle
 • No refunds will be issued for the unused portion of your current billing cycle
-• Some features from your higher-tier plan may become unavailable immediately upon downgrading
-• Any data or content that relies on higher-tier features may be archived and inaccessible until you upgrade again
-• Projects exceeding the storage or project limits of your new plan will be placed in a read-only state until you reduce usage to within the new plan limits
+• You'll need to choose which apps to keep deployed based on your new plan's limits
+• Apps remain in your workspace
 
-### 5.3 Trial to Paid Conversion
+### 6.3 Trial to Paid Conversion
 If you are on a free trial, you will be automatically converted to the paid plan you selected at the end of your trial period, unless you cancel before the trial ends. You will be charged the full amount of the selected plan when your trial expires.
 
-## 6. PROMOTIONAL OFFERS AND DISCOUNTS
+## 7. FAIR USAGE POLICY
 
-### 6.1 Promotional Pricing
+### 7.1 Monthly Resets
+• **Deployments**: Reset to 0 on the 1st of each month at 12:00 AM UTC
+• **API Invocations**: Reset to 0 on the 1st of each month at 12:00 AM UTC
+• **AI Tokens**: Reset to 0 on the 1st of each month at 12:00 AM UTC
+• **Storage usage**: Cumulative and does not reset (permanent allocation)
+• **Deployed app/view limits**: Permanent allocations that do not reset
+• **All other limits**: Permanent allocations that do not reset
+
+### 7.2 Overage Handling
+• **Soft Limits**: Temporary grace period with upgrade prompts
+• **Hard Limits**: Service restrictions until upgrade or next billing cycle
+• **Enterprise**: Custom overage rates and handling
+
+### 7.3 Rate Limiting
+• API rate limits scale with plan tier
+• Burst capacity available for short-term spikes
+• Priority queuing for higher-tier plans
+
+## 8. PROMOTIONAL OFFERS AND DISCOUNTS
+
+### 8.1 Promotional Pricing
 We may occasionally offer promotional pricing or discounts on our subscription plans. These promotions are subject to specific terms, including duration and eligibility requirements, which will be communicated at the time of the offer.
 
-### 6.2 Discount Codes
+### 8.2 Discount Codes
 Discount codes must be applied at the time of subscription or renewal and cannot be applied retroactively. Unless otherwise specified, discount codes:
 • Can only be used once per account
 • Cannot be combined with other offers
 • Have no cash value
 • May expire after a certain period
 
-### 6.3 Educational and Non-Profit Discounts
+### 8.3 Educational and Non-Profit Discounts
 We offer special pricing for eligible educational institutions and registered non-profit organizations. Please contact our sales team at info@servly.app with appropriate documentation to apply for these discounts.
 
-## 7. FREE TRIAL
+## 9. FREE TRIAL
 
-### 7.1 Trial Period
-New users may be eligible for a 14-day free trial of the Professional plan. No payment information is required to start a free trial.
+### 9.1 Trial Period
+New users may be eligible for a 14-day free trial of the Pro plan. No payment information is required to start a free trial.
 
-### 7.2 Trial Limitations
+### 9.2 Trial Limitations
 During the free trial:
-• You will have access to most features of the Professional plan
+• You will have access to most features of the Pro plan
 • Certain features may be limited or unavailable
 • Projects created during the trial will remain accessible if you subscribe to a paid plan
 
-### 7.3 Trial Expiration
+### 9.3 Trial Expiration
 At the end of your trial period:
 • You will need to select and subscribe to a paid plan to continue using the Service
-• If you do not subscribe to a paid plan, your account will be downgraded to the Free plan with restricted access to your projects
+• If you do not subscribe to a paid plan, your account will be downgraded to the Free plan
 
-## 8. ACCOUNT CREDITS
+## 10. SUPPORT LEVELS
 
-### 8.1 Credit Balance
+### 10.1 Community Support (Free)
+• Community forums
+• Documentation and guides
+• Basic troubleshooting resources
+
+### 10.2 Email Support (Basic)
+• Email-based support
+• 48-hour response time
+• Business hours availability
+
+### 10.3 Priority Support (Pro)
+• Email and chat support
+• 24-hour response time
+• Extended hours availability
+
+### 10.4 Business Support (Business)
+• Phone, email, and chat support
+• 12-hour response time
+• 24/7 availability
+• Video call support
+
+### 10.5 Dedicated Support (Enterprise)
+• Dedicated support representative
+• 4-hour response time
+• 24/7 premium support
+• Custom escalation procedures
+
+## 11. MIGRATION & ONBOARDING
+
+### 11.1 Free to Paid Migration
+• Automatic limit increases
+• No data migration required
+• Immediate feature access
+• All created apps remain intact
+
+### 11.2 Plan Upgrades
+• Seamless upgrades with prorated billing
+• Feature access within 5 minutes
+• More apps can be deployed immediately
+• Optional migration assistance
+
+### 11.3 Enterprise Onboarding
+• Dedicated onboarding specialist
+• Custom migration planning
+• Training sessions for teams
+• Technical integration support
+
+## 12. ACCOUNT CREDITS
+
+### 12.1 Credit Balance
 Account credits may be issued as part of promotional offers, refunds, or compensation for service issues. Credits:
 • Will be automatically applied to future invoices
 • Cannot be converted to cash
 • Have no monetary value outside of Servly
 • May expire after a specified period
 
-### 8.2 Credit Usage
+### 12.2 Credit Usage
 Credits are applied before charging your payment method. If your credit balance covers the entire amount of your subscription fee, no charge will be made to your payment method for that billing cycle.
 
-## 9. REFUNDS AND CANCELLATIONS
+## 13. REFUNDS AND CANCELLATIONS
 
 Please refer to our separate Refund Policy for detailed information on refunds and cancellations.
 
-## 10. PRICE CHANGES
+## 14. PRICE CHANGES
 
-### 10.1 Subscription Rate Changes
+### 14.1 Subscription Rate Changes
 We reserve the right to change our subscription fees at any time. If we change the fees for your subscription, we will provide notice of the change on our website or by email at least 30 days before the change is to take effect.
 
-### 10.2 Existing Subscriptions
+### 14.2 Existing Subscriptions
 Price changes will not affect existing subscriptions until the next renewal date. If you do not agree with the new prices, you may cancel your subscription before the next renewal date.
 
-## 11. PAYMENT FAILURES
+## 15. PAYMENT FAILURES
 
-### 11.1 Failed Payments
+### 15.1 Failed Payments
 If a payment fails, we will:
 • Attempt to process the payment again within the next few days
 • Notify you by email about the failed payment
 • Provide instructions on how to update your payment information
 
-### 11.2 Account Suspension
+### 15.2 Account Suspension
 If we are unable to successfully process your payment after multiple attempts, your account may be suspended. During suspension:
 • Access to premium features will be restricted
 • Your data and projects will be preserved
 • You can restore full access by updating your payment information and paying any outstanding balance
 
-### 11.3 Account Reactivation
+### 15.3 Account Reactivation
 To reactivate a suspended account:
 • Log in to your account
 • Update your payment information
 • Process the outstanding payment
 
-## 12. BUSINESS AGREEMENTS
+## 16. BUSINESS AGREEMENTS
 
-Business agreements are subject to customized terms, which may differ from this Pricing Policy. In the event of any conflict between this Pricing Policy and the terms of a Business agreement, the terms of the Business agreement will prevail.
+Business and Enterprise agreements are subject to customized terms, which may differ from this Pricing Policy. In the event of any conflict between this Pricing Policy and the terms of a Business or Enterprise agreement, the terms of the Business or Enterprise agreement will prevail.
 
-## 13. INTERNATIONAL PRICING
+## 17. INTERNATIONAL PRICING
 
-### 13.1 Regional Pricing
+### 17.1 Regional Pricing
 While our standard pricing is in USD, we may offer regional pricing in selected countries to reflect local economic conditions. Regional pricing, if available, will be displayed when you select your country during registration.
 
-### 13.2 Currency Fluctuations
+### 17.2 Currency Fluctuations
 For subscriptions paid in currencies other than USD, the subscription price may fluctuate due to changes in exchange rates. We reserve the right to adjust prices to account for significant currency fluctuations.
 
-## 14. FINANCIAL REGULATIONS
+## 18. FINANCIAL REGULATIONS
 
-### 14.1 South African Financial Regulations
+### 18.1 South African Financial Regulations
 For users in South Africa, all payments and financial transactions comply with regulations set by the South African Reserve Bank (SARB) and the Financial Intelligence Centre Act (FICA).
 
-### 14.2 International Financial Regulations
+### 18.2 International Financial Regulations
 We comply with all applicable international financial regulations, including anti-money laundering laws and sanctions. We reserve the right to refuse or cancel transactions that we reasonably believe may violate applicable laws or regulations.
 
-## 15. RESOURCE LIMITS AND OVERAGES
+## 19. MARKETPLACE AND ACCOUNT MISUSE POLICY
 
-### 15.1 Resource Limitations
-Each plan has specific resource limitations as outlined in Section 2. These limitations include:
-• Number of user accounts
-• Number of applications
-• Pages per application
-• Components and templates
-• Storage capacity
-• Daily deployments
-• Monthly invocations
-• Automations and plugins
+### 19.1 Marketplace Publishing Rights
+All plans include access to marketplace publishing, with the following conditions:
+• **Free Plan**: New accounts require manual approval and must earn the Servly Free Creator badge before publishing
+• **Paid Plans**: Immediate publishing access upon subscription
+• All marketplace content is subject to our content guidelines and quality standards
 
-### 15.2 Resource Monitoring
-You can monitor your resource usage through your account dashboard. We will notify you when you approach 80% of your plan's limits.
+### 19.2 Right to Revoke Access
+Servly reserves the right to suspend or terminate access to services, including marketplace publishing privileges, in cases of:
+• Creating multiple free accounts to bypass plan limitations
+• Violating our Terms of Service or community guidelines
+• Publishing malicious, fraudulent, or inappropriate content
+• Attempting to circumvent security measures or payment systems
+• Any other activity deemed harmful to the platform or community
 
-### 15.3 Overage Handling
-If you exceed your plan's resource limits:
-• For Free Plan users: Functionality may be limited until usage is reduced or you upgrade to a paid plan
-• For Paid Plan users: You will be notified and may be billed for excess usage according to our overage rates, or you may choose to upgrade to a higher tier plan
+### 19.3 Account Monitoring
+We actively monitor for patterns of misuse, including but not limited to:
+• Multiple account creation from the same user or organization
+• Systematic attempts to bypass plan restrictions
+• Unusual deployment or usage patterns indicating abuse
 
-## 16. CHANGES TO THIS POLICY
+Violations may result in immediate account suspension, removal of published content, and potential legal action.
+
+## 20. FREQUENTLY ASKED QUESTIONS
+
+### Q: Can I create more apps than my plan allows?
+**A:** Yes! You can create unlimited applications in your workspace. Plan limits only apply to how many can be deployed simultaneously.
+
+### Q: What happens to my apps if I downgrade?
+**A:** Your apps remain in your workspace. You'll need to choose which apps to keep deployed based on your new plan's limits.
+
+### Q: Can I test apps without deploying them?
+**A:** Absolutely! Local development and testing don't count against your deployment limits.
+
+### Q: How quickly can I swap deployed apps?
+**A:** Deployment swaps typically complete in under 2 minutes. Undeploy one app and deploy another instantly.
+
+## 21. CHANGES TO THIS POLICY
 
 We may update this Pricing Policy from time to time. If we make material changes to this policy, we will notify you by email or by posting a notice on our website prior to the effective date of the changes.
 
-## 17. CONTACT US
+## 22. CONTACT US
 
 If you have any questions about our pricing or need billing assistance, please contact our billing support team at:
 
-Servly (Pty) Ltd  
+Servly (Pty) Ltd
 Email: info@servly.app
+Sales: sales@servly.app
+
+Ready to get started? Sign up for free at https://app.servly.app/signup or contact our sales team for Enterprise pricing.

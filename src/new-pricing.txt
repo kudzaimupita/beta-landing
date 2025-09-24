@@ -1,0 +1,407 @@
+# Billing Plans & Limits
+
+This document outlines the comprehensive billing plans and their limits for the platform.
+
+## Plan Overview
+
+| Plan | Monthly Price | Yearly Price | Best For |
+|------|---------------|--------------|----------|
+| **Free** | $0 | $0 | Individual developers, learning, prototypes |
+| **Basic** | $19 | $190 (2 months free) | Small teams, simple applications |
+| **Pro** | $199 | $1,990 (2 months free) | Growing teams, multiple applications |
+| **Business** | $599 | $5,990 (2 months free) | Large teams, enterprise features |
+| **Enterprise** | Custom | Custom | Custom requirements, dedicated support |
+
+---
+
+## 📝 Important: Understanding Limits
+
+### Application Limits
+- **Creation:** Create **unlimited draft** applications in your workspace
+- **Deployment:** Plan limits apply only to **actively deployed** applications
+- **Flexibility:** Swap deployed apps anytime by undeploying some and deploying others
+
+### View Limits
+- **Development:** Create **unlimited** views while building
+- **Deployment:** **Unlimited** views per application and across all deployed applications on all plans
+
+---
+
+## Plan Limits Comparison
+
+### Core Resources
+
+| Feature | Free | Basic | Pro | Business | Enterprise |
+|---------|------|-------|-----|----------|------------|
+| **Deployed Applications** | 3 | 5 | 15 | 50 | Unlimited |
+| **Total Deployed Views** | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+| **Total Controllers** | 15 | 75 | 300 | 1,500 | Unlimited |
+| **Team Members** | 3 | 10 | 25 | 100 | Unlimited |
+| **Resources/Plugins** | 5 | 20 | 75 | 300 | Unlimited |
+| **Modules/Components** | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+
+*Note: You can create unlimited draft apps and views in development - limits apply only to deployed resources*
+
+### Monthly Usage Limits
+
+| Feature | Free | Basic | Pro | Business | Enterprise |
+|---------|------|-------|-----|----------|------------|
+| **Deployments** | 30/month | 100/month | 500/month | 2,000/month | Unlimited |
+| **API Invocations** | 10K/month | 50K/month | 250K/month | 1M/month | Custom |
+| **Storage** | 1 GB | 5 GB | 25 GB | 100 GB | Custom |
+| **AI Tokens** | Limited AI credits | 1M/month | 1M/month | 1M/month | Custom |
+
+### Per Deployed Application Limits
+
+| Feature | Free | Basic | Pro | Business | Enterprise |
+|---------|------|-------|-----|----------|------------|
+| **Views per App** | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |
+| **Controllers per App** | 8 | 20 | 75 | 300 | Unlimited |
+| **Custom Domains** | 1 | 3 | Unlimited | Unlimited | Unlimited |
+| **Marketplace Publications** | Available* | Unlimited | Unlimited | Unlimited | Unlimited |
+
+*Free plan requires manual approval for new accounts without Servly Free Creator badge
+
+---
+
+## Features by Plan
+
+### 🆓 Free Plan
+- **Perfect for:** Learning, prototyping, personal projects
+- **Included:**
+  - **Unlimited** draft app creation in workspace
+  - 3 Deployed Applications
+  - Unlimited Views (no limits at all)
+  - 15 Total Controllers across all apps
+  - 3 Team Members
+  - 5 Resources/Plugins
+  - Unlimited Modules/Components
+  - 30 Deployments/month
+  - 1GB Storage
+  - 10K API Calls/month
+  - Limited AI credits
+  - 1 Custom Domain per app
+  - Marketplace Publishing (manual approval for new accounts)
+  - Community Support
+  - Basic Analytics
+
+### 💼 Basic Plan - $19/month
+- **Perfect for:** Small teams starting production apps
+- **Everything in Free, plus:**
+  - 5 Deployed Applications
+  - 75 Total Controllers
+  - 10 Team Members
+  - 20 Resources
+  - 100 Deployments/month
+  - 5GB Storage
+  - 50K API Calls/month
+  - 1M AI tokens/month
+  - **3 Custom Domains per app**
+  - **Unlimited Marketplace Publications**
+  - **SSL Certificates**
+  - **Automated Backups**
+  - Email Support
+
+### 🚀 Pro Plan - $199/month
+- **Perfect for:** Growing teams with multiple applications
+- **Everything in Basic, plus:**
+  - 15 Deployed Applications
+  - 300 Total Controllers
+  - 25 Team Members
+  - 75 Resources
+  - 500 Deployments/month
+  - 25GB Storage
+  - 250K API Calls/month
+  - **Unlimited Custom Domains per app**
+  - **Priority Support**
+  - **Advanced Analytics**
+  - **Role-Based Access Control (RBAC)**
+
+### 🏢 Business Plan - $599/month
+- **Perfect for:** Large teams and organizations
+- **Everything in Pro, plus:**
+  - 50 Deployed Applications
+  - 1,500 Total Controllers
+  - 100 Team Members
+  - 300 Resources
+  - 2,000 Deployments/month
+  - 100GB Storage
+  - 1M API Calls/month
+  - **SSO Integration**
+  - **Audit Logs**
+  - **White Label Branding**
+  - **SLA Guarantee**
+  - **Phone Support**
+  - **Video Call Support**
+
+### 🏭 Enterprise Plan - Custom Pricing
+- **Perfect for:** Large organizations with specific needs
+- **Everything in Business, plus:**
+  - **Unlimited everything**
+  - **Unlimited Deployed Applications**
+  - **Unlimited Marketplace Publications**
+  - **Custom storage allocation**
+  - **Custom API limits**
+  - **Custom AI token allocation**
+  - **Dedicated Support Representative**
+  - **Custom Integrations**
+  - **On-premise Deployment Options**
+  - **Custom Contract Terms**
+  - **Training & Onboarding**
+
+---
+
+## Plan Features Matrix
+
+### ✨ Core Features
+| Feature | Free | Basic | Pro | Business | Enterprise |
+|---------|:----:|:-----:|:---:|:--------:|:----------:|
+| Unlimited Draft App Creation | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Unlimited Views | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Unlimited Modules/Components | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Controllers | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Resources/Plugins | ✅ | ✅ | ✅ | ✅ | ✅ |
+| API Access | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Basic Analytics | ✅ | ✅ | ✅ | ✅ | ✅ |
+| AI Features | Limited | ✅ | ✅ | ✅ | ✅ |
+
+### 🔧 Advanced Features
+| Feature | Free | Basic | Pro | Business | Enterprise |
+|---------|:----:|:-----:|:---:|:--------:|:----------:|
+| Custom Domains | ✅ | ✅ | ✅ | ✅ | ✅ |
+| SSL Certificates | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Automated Backups | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Priority Support | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Advanced Analytics | ❌ | ❌ | ✅ | ✅ | ✅ |
+
+### 🔐 Security & Compliance
+| Feature | Free | Basic | Pro | Business | Enterprise |
+|---------|:----:|:-----:|:---:|:--------:|:----------:|
+| Role-Based Access Control | ❌ | ❌ | ✅ | ✅ | ✅ |
+| SSO Integration | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Audit Logs | ❌ | ❌ | ❌ | ✅ | ✅ |
+| SLA Guarantee | ❌ | ❌ | ❌ | ✅ | ✅ |
+
+### 🎨 Branding & Customization
+| Feature | Free | Basic | Pro | Business | Enterprise |
+|---------|:----:|:-----:|:---:|:--------:|:----------:|
+| White Label Branding | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Custom Integrations | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Dedicated Support | ❌ | ❌ | ❌ | ❌ | ✅ |
+| On-premise Deployment | ❌ | ❌ | ❌ | ❌ | ✅ |
+
+---
+
+## Marketplace & Account Misuse Policy
+
+### Marketplace Publishing Rights
+All plans include access to marketplace publishing, with the following conditions:
+- **Free Plan**: New accounts require manual approval and must earn the Servly Free Creator badge before publishing
+- **Paid Plans**: Immediate publishing access upon subscription
+- All marketplace content is subject to our content guidelines and quality standards
+
+### Right to Revoke Access
+Servly reserves the right to suspend or terminate access to services, including marketplace publishing privileges, in cases of:
+- Creating multiple free accounts to bypass plan limitations
+- Violating our Terms of Service or community guidelines
+- Publishing malicious, fraudulent, or inappropriate content
+- Attempting to circumvent security measures or payment systems
+- Any other activity deemed harmful to the platform or community
+
+### Account Monitoring
+We actively monitor for patterns of misuse, including:
+- Multiple account creation from the same user or organization
+- Systematic attempts to bypass plan restrictions
+- Unusual deployment or usage patterns indicating abuse
+
+---
+
+## Usage Examples
+
+### Small Startup (Basic Plan)
+- **Team Size:** 8 people
+- **Workspace:** Unlimited draft applications (5 deployed)
+- **Deployed Apps:** 3 marketing sites + 2 web apps
+- **Views:** Unlimited across all apps
+- **AI Usage:** 1M tokens for AI-powered features
+- **Monthly Usage:** ~80 deployments, 35K API calls
+- **Cost:** $19/month ($190/year with annual billing)
+
+### Growing SaaS Company (Pro Plan)
+- **Team Size:** 20 developers
+- **Workspace:** Unlimited draft applications (15 deployed)
+- **Deployed Apps:** 12 micro-services + 3 customer portals
+- **Views:** Unlimited across all apps
+- **Custom Domains:** Unlimited per app
+- **AI Usage:** 1M tokens for advanced AI features
+- **Monthly Usage:** ~350 deployments, 180K API calls
+- **Cost:** $199/month ($1,990/year with annual billing)
+
+### Enterprise Organization (Business Plan)
+- **Team Size:** 75 developers across multiple teams
+- **Workspace:** Unlimited draft applications (50 deployed)
+- **Deployed Apps:** 35 internal tools + 15 customer-facing apps
+- **Views:** Unlimited across all apps
+- **AI Usage:** 1M tokens with priority processing
+- **Monthly Usage:** ~1,500 deployments, 850K API calls
+- **Features:** SSO, audit logs, white-label branding
+- **Cost:** $599/month ($5,990/year with annual billing)
+
+---
+
+## How Deployment Limits Work
+
+### Example Scenario: Basic Plan
+You're on the **Basic Plan** with a limit of 5 deployed applications:
+
+1. **Create** unlimited draft applications in your workspace ✅
+2. **Deploy** 5 applications (hitting your limit)
+3. **Want to deploy a 6th app?** You have options:
+   - Undeploy one of your current 5 apps, then deploy the new one
+   - Upgrade to Pro Plan for 15 deployed apps
+4. **Development continues:** Keep building and testing all apps locally
+
+### Deployment Swapping
+- **Quick swap:** Undeploy App A → Deploy App B (takes ~2 minutes)
+- **No data loss:** Undeploying preserves all app data and configuration
+- **Instant redeployment:** Previously deployed apps can be redeployed anytime
+
+---
+
+## Billing & Payments
+
+### Payment Methods
+- Credit/Debit Cards (Visa, MasterCard, American Express)
+- PayPal
+- Bank Transfer (Business and Enterprise only)
+- Purchase Orders (Enterprise only)
+
+### Billing Cycles
+- **Monthly:** Charged monthly, cancel anytime
+- **Annual:** 2 months free (pay for 10 months), annual commitment
+
+### Plan Changes
+- **Upgrades:** Take effect immediately with prorated billing
+- **Downgrades:** Take effect at next billing cycle
+- **Enterprise:** Custom terms and migration support
+
+---
+
+## Fair Usage Policy
+
+### Monthly Resets
+- **Deployments**: Reset to 0 on the 1st of each month at 12:00 AM UTC
+- **API Invocations**: Reset to 0 on the 1st of each month at 12:00 AM UTC
+- **AI Tokens**: Reset to 0 on the 1st of each month at 12:00 AM UTC
+- **Storage usage**: Cumulative and does not reset (permanent allocation)
+- **Deployed app/view limits**: Permanent allocations that do not reset
+- **All other limits**: Permanent allocations that do not reset
+
+### Reset Timing Examples
+- January 1st, 2024 at 12:00 AM UTC: All monthly counters reset
+- If you use 25/30 deployments in January, you get a fresh 30 deployments on February 1st
+- If you use 8K/10K API calls in January, you get a fresh 10K calls on February 1st
+- If you use 500K/1M AI tokens in January, you get a fresh 1M tokens on February 1st
+- Your 5 deployed app limit (Basic) remains constant - swap apps anytime
+
+### Overage Handling
+- **Soft Limits:** Temporary grace period with upgrade prompts
+- **Hard Limits:** Service restrictions until upgrade or next billing cycle
+- **Enterprise:** Custom overage rates and handling
+
+### Rate Limiting
+- API rate limits scale with plan tier
+- Burst capacity available for short-term spikes
+- Priority queuing for higher-tier plans
+
+---
+
+## Support Levels
+
+### Community Support (Free)
+- Community forums
+- Documentation and guides
+- Basic troubleshooting resources
+
+### Email Support (Basic)
+- Email-based support
+- 48-hour response time
+- Business hours availability
+
+### Priority Support (Pro)
+- Email and chat support
+- 24-hour response time
+- Extended hours availability
+
+### Business Support (Business)
+- Phone, email, and chat support
+- 12-hour response time
+- 24/7 availability
+- Video call support
+
+### Dedicated Support (Enterprise)
+- Dedicated support representative
+- 4-hour response time
+- 24/7 premium support
+- Custom escalation procedures
+
+---
+
+## Migration & Onboarding
+
+### Free to Paid Migration
+- Automatic limit increases
+- No data migration required
+- Immediate feature access
+- All created apps remain intact
+
+### Plan Upgrades
+- Seamless upgrades with prorated billing
+- Feature access within 5 minutes
+- More apps can be deployed immediately
+- Optional migration assistance
+
+### Enterprise Onboarding
+- Dedicated onboarding specialist
+- Custom migration planning
+- Training sessions for teams
+- Technical integration support
+
+---
+
+## Frequently Asked Questions
+
+### Q: Can I create more apps than my plan allows?
+**A:** Yes! You can create unlimited draft applications in your workspace. Plan limits only apply to how many can be deployed simultaneously.
+
+### Q: What happens to my apps if I downgrade?
+**A:** Your apps remain in your workspace. You'll need to choose which apps to keep deployed based on your new plan's limits.
+
+### Q: Can I test apps without deploying them?
+**A:** Absolutely! Local development and testing don't count against your deployment limits.
+
+### Q: How quickly can I swap deployed apps?
+**A:** Deployment swaps typically complete in under 2 minutes. Undeploy one app and deploy another instantly.
+
+### Q: Are views really unlimited?
+**A:** Yes! All plans include unlimited views per application with no restrictions.
+
+### Q: What happens if I exceed my AI token limit?
+**A:** For Free plan users, AI features will be limited. Paid plan users will receive notifications to manage usage or upgrade.
+
+---
+
+## Getting Started
+
+1. **Sign up** for a free account
+2. **Create** unlimited draft applications in your workspace
+3. **Build & test** locally without restrictions
+4. **Deploy** up to your plan's limit
+5. **Invite** team members
+6. **Upgrade** when you need more deployed apps or resources
+
+**Ready to get started?** [Sign up for free](https://app.servly.app/signup) or [contact sales](mailto:sales@servly.app) for Enterprise pricing.
+
+---
+
+*Prices shown in USD. All plans include core platform features and unlimited draft app creation. Deployment limits apply to actively deployed resources only. Enterprise pricing varies based on requirements. Subject to our Terms of Service and Fair Usage Policy.*

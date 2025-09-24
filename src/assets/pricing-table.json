@@ -1,330 +1,264 @@
 {
   "plans": [
     {
-      "name": "Basic Plan",
+      "name": "Free Plan",
       "price": {
-        "monthly": 24.99,
-        "yearly": 249.90,
-        "savings": "16%"
+        "monthly": 0,
+        "yearly": 0,
+        "savings": null
       },
       "features": {
-        "userManagement": {
-          "userAccounts": "Single user account",
-          "managedAuth": "Managed Auth (JWT)",
-          "teamManagement": null,
-          "userRoles": null,
-          "ssoIntegration": null
+        "coreResources": {
+          "deployedApplications": "3",
+          "totalDeployedViews": "Unlimited",
+          "totalControllers": "15 across all apps",
+          "teamMembers": "3",
+          "resourcesPlugins": "5",
+          "modulesComponents": "Unlimited"
         },
-        "projects": {
-          "limit": "Up to 3 projects"
+        "monthlyUsage": {
+          "deployments": "30 per month",
+          "apiInvocations": "10,000 per month",
+          "storage": "1GB",
+          "aiTokens": "Limited AI credits"
         },
-        "storage": {
-          "limit": "5GB storage"
+        "perApplication": {
+          "viewsPerApp": "Unlimited",
+          "controllersPerApp": "8",
+          "customDomains": "1 per app",
+          "marketplacePublications": "Available (manual approval for new accounts without Servly Free Creator badge)"
         },
-        "domInspector": {
-          "nodeIdentifier": true,
-          "nodePreview": false,
-          "fullCapabilities": false
-        },
-        "views": {
-          "limit": "10 Views",
-          "payPerView": false
-        },
-        "deployments": {
-          "limit": "5 Deployments per month",
-          "priority": false
-        },
-        "components": {
-          "level": "Basic React components library",
-          "custom": false
-        },
-        "templates": {
-          "level": "Standard templates",
-          "custom": false
-        },
-        "backend": {
-          "controllers": "Basic controllers",
-          "custom": false
-        },
-        "database": {
-          "storage": "Basic storage capabilities",
-          "studio": false,
-          "studioResources": null
-        },
-        "collaboration": {
-          "tools": null,
-          "codeExport": false
+        "features": {
+          "unlimitedDraftAppCreation": true,
+          "unlimitedViews": true,
+          "basicAnalytics": true,
+          "communitySupport": true,
+          "apiAccess": true,
+          "sslCertificates": false,
+          "automatedBackups": false,
+          "prioritySupport": false,
+          "advancedAnalytics": false,
+          "rbac": false,
+          "ssoIntegration": false,
+          "auditLogs": false,
+          "whiteLabelBranding": false,
+          "slaGuarantee": false
         },
         "support": {
-          "level": "Community support",
-          "analytics": "Basic analytics",
+          "level": "Community Support",
           "responseTime": null,
-          "phoneSuppport": false,
-          "dedicatedManager": false,
-          "training": false,
-          "sla": false
-        },
-        "domains": {
-          "connections": "Single custom domain connection"
-        },
-        "api": {
-          "access": false,
-          "rateLimits": null,
-          "custom": false
-        },
-        "branding": {
-          "removeServly": false,
-          "whiteLabelingOptions": false,
-          "completeWhiteLabeling": false
-        },
-        "compliance": {
-          "certifications": false
+          "channels": ["Forums", "Documentation"]
         }
       }
     },
     {
-      "name": "Professional Plan",
+      "name": "Basic Plan",
       "price": {
-        "monthly": 49.99,
-        "yearly": 499.90,
-        "savings": "16%"
+        "monthly": 19,
+        "yearly": 190,
+        "savings": "2 months free"
       },
       "features": {
-        "userManagement": {
-          "userAccounts": "Up to 5 user accounts",
-          "managedAuth": "Managed Auth (JWT)",
-          "teamManagement": null,
-          "userRoles": null,
-          "ssoIntegration": null
+        "coreResources": {
+          "deployedApplications": "5",
+          "totalDeployedViews": "Unlimited",
+          "totalControllers": "75 across all apps",
+          "teamMembers": "10",
+          "resourcesPlugins": "20",
+          "modulesComponents": "Unlimited"
         },
-        "projects": {
-          "limit": "Up to 10 projects"
+        "monthlyUsage": {
+          "deployments": "100 per month",
+          "apiInvocations": "50,000 per month",
+          "storage": "5GB",
+          "aiTokens": "1,000,000 tokens per month"
         },
-        "storage": {
-          "limit": "100GB storage"
+        "perApplication": {
+          "viewsPerApp": "Unlimited",
+          "controllersPerApp": "20",
+          "customDomains": "3 per app",
+          "marketplacePublications": "Unlimited"
         },
-        "domInspector": {
-          "nodeIdentifier": true,
-          "nodePreview": true,
-          "fullCapabilities": false
-        },
-        "views": {
-          "limit": "30 Views",
-          "payPerView": true
-        },
-        "deployments": {
-          "limit": "20 Deployments per month",
-          "priority": false
-        },
-        "components": {
-          "level": "Advanced React components library",
-          "custom": false
-        },
-        "templates": {
-          "level": "Premium templates",
-          "custom": false
-        },
-        "backend": {
-          "controllers": "Standard controllers",
-          "custom": false
-        },
-        "database": {
-          "storage": "Database Studio access",
-          "studio": true,
-          "studioResources": "Standard Studio Resources"
-        },
-        "collaboration": {
-          "tools": "Basic collaboration tools",
-          "codeExport": true
+        "features": {
+          "unlimitedDraftAppCreation": true,
+          "unlimitedViews": true,
+          "basicAnalytics": true,
+          "communitySupport": false,
+          "apiAccess": true,
+          "sslCertificates": true,
+          "automatedBackups": true,
+          "prioritySupport": false,
+          "advancedAnalytics": false,
+          "rbac": false,
+          "ssoIntegration": false,
+          "auditLogs": false,
+          "whiteLabelBranding": false,
+          "slaGuarantee": false
         },
         "support": {
-          "level": "Email support",
-          "analytics": "Advanced analytics",
-          "responseTime": "24-hour response time",
-          "phoneSuppport": false,
-          "dedicatedManager": false,
-          "training": false,
-          "sla": false
+          "level": "Email Support",
+          "responseTime": "48 hours",
+          "channels": ["Email", "Documentation"]
+        }
+      }
+    },
+    {
+      "name": "Pro Plan",
+      "price": {
+        "monthly": 199,
+        "yearly": 1990,
+        "savings": "2 months free"
+      },
+      "features": {
+        "coreResources": {
+          "deployedApplications": "15",
+          "totalDeployedViews": "Unlimited",
+          "totalControllers": "300 across all apps",
+          "teamMembers": "25",
+          "resourcesPlugins": "75",
+          "modulesComponents": "Unlimited"
         },
-        "domains": {
-          "connections": "Custom domain connection"
+        "monthlyUsage": {
+          "deployments": "500 per month",
+          "apiInvocations": "250,000 per month",
+          "storage": "25GB",
+          "aiTokens": "1,000,000 tokens per month"
         },
-        "api": {
-          "access": true,
-          "rateLimits": "Standard API access",
-          "custom": false
+        "perApplication": {
+          "viewsPerApp": "Unlimited",
+          "controllersPerApp": "75",
+          "customDomains": "Unlimited",
+          "marketplacePublications": "Unlimited"
         },
-        "branding": {
-          "removeServly": true,
-          "whiteLabelingOptions": false,
-          "completeWhiteLabeling": false
+        "features": {
+          "unlimitedDraftAppCreation": true,
+          "unlimitedViews": true,
+          "basicAnalytics": true,
+          "communitySupport": false,
+          "apiAccess": true,
+          "sslCertificates": true,
+          "automatedBackups": true,
+          "prioritySupport": true,
+          "advancedAnalytics": true,
+          "rbac": true,
+          "ssoIntegration": false,
+          "auditLogs": false,
+          "whiteLabelBranding": false,
+          "slaGuarantee": false
         },
-        "compliance": {
-          "certifications": false
+        "support": {
+          "level": "Priority Support",
+          "responseTime": "24 hours",
+          "channels": ["Email", "Chat", "Documentation"]
         }
       }
     },
     {
       "name": "Business Plan",
       "price": {
-        "monthly": 149.99,
-        "yearly": 1499.90,
-        "savings": "16%"
+        "monthly": 599,
+        "yearly": 5990,
+        "savings": "2 months free"
       },
       "features": {
-        "userManagement": {
-          "userAccounts": "Up to 20 user accounts",
-          "managedAuth": "Managed Auth (JWT)",
-          "teamManagement": true,
-          "userRoles": true,
-          "ssoIntegration": false
+        "coreResources": {
+          "deployedApplications": "50",
+          "totalDeployedViews": "Unlimited",
+          "totalControllers": "1,500 across all apps",
+          "teamMembers": "100",
+          "resourcesPlugins": "300",
+          "modulesComponents": "Unlimited"
         },
-        "projects": {
-          "limit": "Unlimited projects"
+        "monthlyUsage": {
+          "deployments": "2,000 per month",
+          "apiInvocations": "1,000,000 per month",
+          "storage": "100GB",
+          "aiTokens": "1,000,000 tokens per month"
         },
-        "storage": {
-          "limit": "500GB storage"
+        "perApplication": {
+          "viewsPerApp": "Unlimited",
+          "controllersPerApp": "300",
+          "customDomains": "Unlimited",
+          "marketplacePublications": "Unlimited"
         },
-        "domInspector": {
-          "nodeIdentifier": true,
-          "nodePreview": true,
-          "fullCapabilities": false
-        },
-        "views": {
-          "limit": "Unlimited Views",
-          "payPerView": false
-        },
-        "deployments": {
-          "limit": "Unlimited Deployments",
-          "priority": false
-        },
-        "components": {
-          "level": "Full React components library",
-          "custom": false
-        },
-        "templates": {
-          "level": "All templates",
-          "custom": false
-        },
-        "backend": {
-          "controllers": "Advanced controllers",
-          "custom": false
-        },
-        "database": {
-          "storage": "Full Database Studio access",
-          "studio": true,
-          "studioResources": "Extended Studio Resources"
-        },
-        "collaboration": {
-          "tools": "Advanced collaboration tools",
-          "codeExport": true
+        "features": {
+          "unlimitedDraftAppCreation": true,
+          "unlimitedViews": true,
+          "basicAnalytics": true,
+          "communitySupport": false,
+          "apiAccess": true,
+          "sslCertificates": true,
+          "automatedBackups": true,
+          "prioritySupport": true,
+          "advancedAnalytics": true,
+          "rbac": true,
+          "ssoIntegration": true,
+          "auditLogs": true,
+          "whiteLabelBranding": true,
+          "slaGuarantee": true
         },
         "support": {
-          "level": "Priority email support",
-          "analytics": "Comprehensive analytics",
-          "responseTime": "8-hour response time",
-          "phoneSuppport": true,
-          "dedicatedManager": false,
-          "training": false,
-          "sla": false
-        },
-        "domains": {
-          "connections": "Multiple custom domain connections"
-        },
-        "api": {
-          "access": true,
-          "rateLimits": "Higher rate limits",
-          "custom": false
-        },
-        "branding": {
-          "removeServly": true,
-          "whiteLabelingOptions": true,
-          "completeWhiteLabeling": false
-        },
-        "compliance": {
-          "certifications": false
+          "level": "Business Support",
+          "responseTime": "12 hours",
+          "channels": ["Phone", "Email", "Chat", "Video Call", "Documentation"],
+          "availability": "24/7"
         }
       }
     },
     {
       "name": "Enterprise Plan",
       "price": {
-        "monthly": "Custom pricing",
-        "yearly": "Custom pricing",
+        "monthly": "Custom",
+        "yearly": "Custom",
         "savings": null
       },
       "features": {
-        "userManagement": {
-          "userAccounts": "Unlimited user accounts",
-          "managedAuth": "Managed Auth (JWT)",
-          "teamManagement": "Advanced team management",
-          "userRoles": "Customizable user roles and permissions",
-          "ssoIntegration": true
+        "coreResources": {
+          "deployedApplications": "Unlimited",
+          "totalDeployedViews": "Unlimited",
+          "totalControllers": "Unlimited",
+          "teamMembers": "Unlimited",
+          "resourcesPlugins": "Unlimited",
+          "modulesComponents": "Unlimited"
         },
-        "projects": {
-          "limit": "Unlimited projects"
+        "monthlyUsage": {
+          "deployments": "Unlimited",
+          "apiInvocations": "Custom allocation",
+          "storage": "Custom allocation",
+          "aiTokens": "Custom allocation"
         },
-        "storage": {
-          "limit": "Custom storage allocation"
+        "perApplication": {
+          "viewsPerApp": "Unlimited",
+          "controllersPerApp": "Unlimited",
+          "customDomains": "Unlimited",
+          "marketplacePublications": "Unlimited"
         },
-        "domInspector": {
-          "nodeIdentifier": true,
-          "nodePreview": true,
-          "fullCapabilities": true
-        },
-        "views": {
-          "limit": "Unlimited Views",
-          "payPerView": false
-        },
-        "deployments": {
-          "limit": "Unlimited Deployments",
-          "priority": true
-        },
-        "components": {
-          "level": "Full React components library",
-          "custom": true
-        },
-        "templates": {
-          "level": "All templates",
-          "custom": true
-        },
-        "backend": {
-          "controllers": "Custom controllers",
-          "custom": true
-        },
-        "database": {
-          "storage": "Premium Database Studio access",
-          "studio": true,
-          "studioResources": "Unlimited Studio Resources"
-        },
-        "collaboration": {
-          "tools": "Enterprise-grade collaboration tools",
-          "codeExport": "Advanced code export options"
+        "features": {
+          "unlimitedDraftAppCreation": true,
+          "unlimitedViews": true,
+          "basicAnalytics": true,
+          "communitySupport": false,
+          "apiAccess": true,
+          "sslCertificates": true,
+          "automatedBackups": true,
+          "prioritySupport": true,
+          "advancedAnalytics": true,
+          "rbac": true,
+          "ssoIntegration": true,
+          "auditLogs": true,
+          "whiteLabelBranding": true,
+          "slaGuarantee": true,
+          "customIntegrations": true,
+          "onPremiseDeployment": true,
+          "dedicatedSupport": true,
+          "trainingOnboarding": true
         },
         "support": {
-          "level": "24/7 priority support",
-          "analytics": "Custom analytics and reporting",
-          "responseTime": "Immediate",
-          "phoneSuppport": true,
-          "dedicatedManager": true,
-          "training": "Custom training and onboarding",
-          "sla": true
-        },
-        "domains": {
-          "connections": "Multiple custom domain connections"
-        },
-        "api": {
-          "access": true,
-          "rateLimits": "Unlimited",
-          "custom": true
-        },
-        "branding": {
-          "removeServly": true,
-          "whiteLabelingOptions": true,
-          "completeWhiteLabeling": true
-        },
-        "compliance": {
-          "certifications": true
+          "level": "Dedicated Support",
+          "responseTime": "4 hours",
+          "channels": ["Dedicated Representative", "Phone", "Email", "Chat", "Video Call"],
+          "availability": "24/7 Premium",
+          "customEscalation": true
         }
       }
     }
